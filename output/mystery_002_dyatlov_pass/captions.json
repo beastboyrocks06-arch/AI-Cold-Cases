@@ -1,0 +1,320 @@
+{
+  "video_id": "mystery_002_dyatlov_pass",
+  "width": 1080,
+  "height": 1920,
+  "style_name": "yellow_bold",
+  "font": {
+    "filename": "dejavu-sans-bold.ttf",
+    "path": "/home/runner/work/AI-Cold-Cases/AI-Cold-Cases/fonts/dejavu-sans-bold.ttf"
+  },
+  "style": {
+    "font_size": 86,
+    "font_color": "#FFD21F",
+    "outline_color": "#000000",
+    "outline_width": 6,
+    "shadow": 3,
+    "bold": true,
+    "italic": true,
+    "position": "center"
+  },
+  "caption_count": 11,
+  "captions": [
+    {
+      "start": 0.1,
+      "end": 1.91,
+      "text": "NINE EXPERIENCED HIKERS VANISHED",
+      "words": [
+        {
+          "text": "Nine",
+          "start": 0.1,
+          "end": 0.421
+        },
+        {
+          "text": "experienced",
+          "start": 0.433,
+          "end": 1.052
+        },
+        {
+          "text": "hikers",
+          "start": 1.064,
+          "end": 1.481
+        },
+        {
+          "text": "vanished",
+          "start": 1.493,
+          "end": 1.91
+        }
+      ]
+    },
+    {
+      "start": 1.921,
+      "end": 3.076,
+      "text": "DURING A WINTER EXPEDITION",
+      "words": [
+        {
+          "text": "during",
+          "start": 1.921,
+          "end": 2.159
+        },
+        {
+          "text": "a",
+          "start": 2.171,
+          "end": 2.243
+        },
+        {
+          "text": "winter",
+          "start": 2.255,
+          "end": 2.517
+        },
+        {
+          "text": "expedition",
+          "start": 2.529,
+          "end": 3.076
+        }
+      ]
+    },
+    {
+      "start": 3.088,
+      "end": 5.526,
+      "text": "IN 1959 RESCUERS FOUND THEIR",
+      "words": [
+        {
+          "text": "in 1959",
+          "start": 3.088,
+          "end": 4.243
+        },
+        {
+          "text": "Rescuers",
+          "start": 4.586,
+          "end": 5.181
+        },
+        {
+          "text": "found",
+          "start": 5.193,
+          "end": 5.419
+        },
+        {
+          "text": "their",
+          "start": 5.431,
+          "end": 5.526
+        }
+      ]
+    },
+    {
+      "start": 5.538,
+      "end": 6.312,
+      "text": "TENT ABANDONED ON A",
+      "words": [
+        {
+          "text": "tent",
+          "start": 5.538,
+          "end": 5.729
+        },
+        {
+          "text": "abandoned",
+          "start": 5.74,
+          "end": 6.169
+        },
+        {
+          "text": "on",
+          "start": 6.181,
+          "end": 6.264
+        },
+        {
+          "text": "a",
+          "start": 6.276,
+          "end": 6.312
+        }
+      ]
+    },
+    {
+      "start": 6.324,
+      "end": 8.36,
+      "text": "FREEZING MOUNTAINSIDE ITS FABRIC",
+      "words": [
+        {
+          "text": "freezing",
+          "start": 6.324,
+          "end": 6.705
+        },
+        {
+          "text": "mountainside",
+          "start": 6.717,
+          "end": 7.407
+        },
+        {
+          "text": "Its",
+          "start": 7.752,
+          "end": 7.955
+        },
+        {
+          "text": "fabric",
+          "start": 7.967,
+          "end": 8.36
+        }
+      ]
+    },
+    {
+      "start": 8.371,
+      "end": 9.229,
+      "text": "HAD BEEN SLASHED FROM",
+      "words": [
+        {
+          "text": "had",
+          "start": 8.371,
+          "end": 8.467
+        },
+        {
+          "text": "been",
+          "start": 8.479,
+          "end": 8.621
+        },
+        {
+          "text": "slashed",
+          "start": 8.633,
+          "end": 9.098
+        },
+        {
+          "text": "from",
+          "start": 9.11,
+          "end": 9.229
+        }
+      ]
+    },
+    {
+      "start": 9.24,
+      "end": 10.883,
+      "text": "THE INSIDE SOME HIKERS",
+      "words": [
+        {
+          "text": "the",
+          "start": 9.24,
+          "end": 9.312
+        },
+        {
+          "text": "inside",
+          "start": 9.324,
+          "end": 9.859
+        },
+        {
+          "text": "Some",
+          "start": 10.205,
+          "end": 10.502
+        },
+        {
+          "text": "hikers",
+          "start": 10.514,
+          "end": 10.883
+        }
+      ]
+    },
+    {
+      "start": 10.895,
+      "end": 12.11,
+      "text": "WERE FOUND WITHOUT SHOES",
+      "words": [
+        {
+          "text": "were",
+          "start": 10.895,
+          "end": 11.002
+        },
+        {
+          "text": "found",
+          "start": 11.014,
+          "end": 11.371
+        },
+        {
+          "text": "without",
+          "start": 11.383,
+          "end": 11.669
+        },
+        {
+          "text": "shoes",
+          "start": 11.681,
+          "end": 12.11
+        }
+      ]
+    },
+    {
+      "start": 12.288,
+      "end": 14.276,
+      "text": "DESPITE DEADLY TEMPERATURES AN",
+      "words": [
+        {
+          "text": "despite",
+          "start": 12.288,
+          "end": 12.729
+        },
+        {
+          "text": "deadly",
+          "start": 12.74,
+          "end": 13.014
+        },
+        {
+          "text": "temperatures",
+          "start": 13.026,
+          "end": 13.729
+        },
+        {
+          "text": "An",
+          "start": 14.074,
+          "end": 14.276
+        }
+      ]
+    },
+    {
+      "start": 14.288,
+      "end": 15.883,
+      "text": "AVALANCHE THEORY EMERGED BUT",
+      "words": [
+        {
+          "text": "avalanche",
+          "start": 14.288,
+          "end": 14.776
+        },
+        {
+          "text": "theory",
+          "start": 14.788,
+          "end": 15.062
+        },
+        {
+          "text": "emerged",
+          "start": 15.074,
+          "end": 15.538
+        },
+        {
+          "text": "but",
+          "start": 15.776,
+          "end": 15.883
+        }
+      ]
+    },
+    {
+      "start": 15.895,
+      "end": 18.002,
+      "text": "QUESTIONS STILL FASCINATE INVESTIGATORS",
+      "words": [
+        {
+          "text": "questions",
+          "start": 15.895,
+          "end": 16.324
+        },
+        {
+          "text": "still",
+          "start": 16.336,
+          "end": 16.574
+        },
+        {
+          "text": "fascinate",
+          "start": 16.586,
+          "end": 17.169
+        },
+        {
+          "text": "investigators",
+          "start": 17.181,
+          "end": 18.002
+        }
+      ]
+    }
+  ]
+}
