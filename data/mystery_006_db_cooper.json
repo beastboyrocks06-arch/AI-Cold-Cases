@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "In 1971, a quiet passenger hijacked a plane with a briefcase.",
       "image_prompt": "A 1970s commercial airliner cabin at night, mysterious suited passenger seated by the window holding a briefcase, cinematic realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "He demanded ransom money and four parachutes.",
       "image_prompt": "A tense airport meeting with ransom cash bundles and parachutes beside a 1970s aircraft, historical thriller atmosphere, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "After takeoff, he opened the rear stairs mid-flight.",
       "image_prompt": "Rear stairway of a vintage passenger jet open above dark clouds at night, dramatic cinematic perspective, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "Then he jumped into a storm with millions watching nowhere.",
       "image_prompt": "A lone parachutist silhouette disappearing into a dark stormy sky beneath an aircraft, suspenseful wide shot, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "Neither his body nor most of the money was ever found.",
       "image_prompt": "A weathered bundle of old banknotes half buried in a remote forest, misty Pacific Northwest atmosphere, cinematic mystery, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }
