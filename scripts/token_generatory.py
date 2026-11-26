@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 from google_auth_oauthlib.flow import InstalledAppFlow
 
-BASE_DIR = Path(__file__).resolve().parent
-CLIENT_FILE = BASE_DIR / "youtube_credentials.json"
-TOKEN_FILE = BASE_DIR / "coldcase_token.json"
+BASE_DIR = Path(__file__).resolve().parent.parent
+CLIENT_FILE = BASE_DIR / "config" / "client_secret.json"
+TOKEN_FILE = BASE_DIR / "config" / "coldcase_token.json"
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.readonly"
