@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_003_voynich_manuscript",
+  "title": "The Book Nobody Can Read",
+  "description": "The Voynich Manuscript is a centuries-old illustrated book written in an unknown script. Decades of study have not produced a universally accepted translation.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "A strange book appeared, filled with writing nobody understood.",
+      "image_prompt": "An ancient medieval manuscript opened on a dark wooden desk, mysterious handwritten symbols, candlelit library, cinematic macro detail, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 2,
+      "narration": "Its pages showed impossible plants and unfamiliar diagrams.",
+      "image_prompt": "Close-up of bizarre botanical illustrations and intricate circular diagrams in an old parchment manuscript, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 3,
+      "narration": "The handwriting repeats patterns like a real language.",
+      "image_prompt": "Rows of elegant unknown handwritten characters across aged parchment, shallow depth of field, cinematic lighting, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 4,
+      "narration": "Cryptographers, linguists, and computers all tried to decode it.",
+      "image_prompt": "A historical codebreaker studying the mysterious manuscript beside papers and magnifying glass, moody library atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 5,
+      "narration": "Centuries later, its true meaning remains unconfirmed.",
+      "image_prompt": "The ancient manuscript resting alone beneath a beam of light in a dark archive, haunting cinematic mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    }
+  ],
+  "voiceover_generated": true,
+  "slides_generated": true,
+  "video_generated": false,
+  "uploaded": false
+}

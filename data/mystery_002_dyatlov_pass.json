@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_002_dyatlov_pass",
+  "title": "Nine Hikers Fled Into a Frozen Night",
+  "description": "In 1959, nine experienced hikers died in the Ural Mountains. Their tent was found cut open from the inside, creating one of history's most debated mysteries.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "Nine experienced hikers vanished during a winter expedition in 1959.",
+      "image_prompt": "Nine mountaineers trekking through the remote snow-covered Ural Mountains in 1959, vintage winter clothing, cinematic historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 2,
+      "narration": "Rescuers found their tent abandoned on a freezing mountainside.",
+      "image_prompt": "A lonely expedition tent half buried in snow on a steep frozen mountain slope, storm clouds, cinematic suspense, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 3,
+      "narration": "Its fabric had been slashed from the inside.",
+      "image_prompt": "Close-up of torn tent fabric with a long cut from inside, snow blowing through the opening, realistic detail, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 4,
+      "narration": "Some hikers were found without shoes, despite deadly temperatures.",
+      "image_prompt": "Abandoned winter boots and footprints leading into a dark snowy forest, chilling moonlight, atmospheric cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 5,
+      "narration": "An avalanche theory emerged, but questions still fascinate investigators.",
+      "image_prompt": "A vast silent snowy mountain pass beneath a pale dawn sky, tiny abandoned tent in distance, mysterious cinematic composition, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    }
+  ],
+  "voiceover_generated": true,
+  "slides_generated": true,
+  "video_generated": false,
+  "uploaded": false
+}

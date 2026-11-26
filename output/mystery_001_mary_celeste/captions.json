@@ -1,0 +1,369 @@
+{
+  "video_id": "mystery_001_mary_celeste",
+  "width": 1080,
+  "height": 1920,
+  "style_name": "yellow_bold_large",
+  "font": {
+    "filename": "dejavu-sans-bold.ttf",
+    "path": "D:\\Project\\AI-Philosopher\\fonts\\dejavu-sans-bold.ttf"
+  },
+  "style": {
+    "font_size": 94,
+    "font_color": "#FFD21F",
+    "outline_color": "#000000",
+    "outline_width": 7,
+    "shadow": 3,
+    "bold": true,
+    "italic": true,
+    "position": "center"
+  },
+  "caption_count": 13,
+  "captions": [
+    {
+      "start": 0.1,
+      "end": 2.231,
+      "text": "IN 1872 A SHIP DRIFTED",
+      "words": [
+        {
+          "text": "In 1872",
+          "start": 0.1,
+          "end": 1.398
+        },
+        {
+          "text": "a",
+          "start": 1.588,
+          "end": 1.612
+        },
+        {
+          "text": "ship",
+          "start": 1.624,
+          "end": 1.886
+        },
+        {
+          "text": "drifted",
+          "start": 1.898,
+          "end": 2.231
+        }
+      ]
+    },
+    {
+      "start": 2.243,
+      "end": 3.683,
+      "text": "ACROSS THE ATLANTIC COMPLETELY",
+      "words": [
+        {
+          "text": "across",
+          "start": 2.243,
+          "end": 2.6
+        },
+        {
+          "text": "the",
+          "start": 2.612,
+          "end": 2.707
+        },
+        {
+          "text": "Atlantic",
+          "start": 2.719,
+          "end": 3.195
+        },
+        {
+          "text": "completely",
+          "start": 3.207,
+          "end": 3.683
+        }
+      ]
+    },
+    {
+      "start": 3.695,
+      "end": 5.407,
+      "text": "ALONE ITS CARGO REMAINED",
+      "words": [
+        {
+          "text": "alone",
+          "start": 3.695,
+          "end": 4.148
+        },
+        {
+          "text": "Its",
+          "start": 4.49,
+          "end": 4.681
+        },
+        {
+          "text": "cargo",
+          "start": 4.693,
+          "end": 5.074
+        },
+        {
+          "text": "remained",
+          "start": 5.086,
+          "end": 5.407
+        }
+      ]
+    },
+    {
+      "start": 5.419,
+      "end": 6.598,
+      "text": "ABOARD AND THE SAILS",
+      "words": [
+        {
+          "text": "aboard",
+          "start": 5.419,
+          "end": 5.776
+        },
+        {
+          "text": "and",
+          "start": 6.062,
+          "end": 6.145
+        },
+        {
+          "text": "the",
+          "start": 6.157,
+          "end": 6.217
+        },
+        {
+          "text": "sails",
+          "start": 6.229,
+          "end": 6.598
+        }
+      ]
+    },
+    {
+      "start": 6.61,
+      "end": 7.859,
+      "text": "WERE STILL SET THE",
+      "words": [
+        {
+          "text": "were",
+          "start": 6.61,
+          "end": 6.729
+        },
+        {
+          "text": "still",
+          "start": 6.74,
+          "end": 6.979
+        },
+        {
+          "text": "set",
+          "start": 6.99,
+          "end": 7.359
+        },
+        {
+          "text": "The",
+          "start": 7.705,
+          "end": 7.859
+        }
+      ]
+    },
+    {
+      "start": 7.871,
+      "end": 9.193,
+      "text": "LIFEBOAT WAS MISSING BUT",
+      "words": [
+        {
+          "text": "lifeboat",
+          "start": 7.871,
+          "end": 8.288
+        },
+        {
+          "text": "was",
+          "start": 8.3,
+          "end": 8.419
+        },
+        {
+          "text": "missing",
+          "start": 8.431,
+          "end": 8.86
+        },
+        {
+          "text": "but",
+          "start": 9.062,
+          "end": 9.193
+        }
+      ]
+    },
+    {
+      "start": 9.205,
+      "end": 10.062,
+      "text": "THERE WAS NO SIGN",
+      "words": [
+        {
+          "text": "there",
+          "start": 9.205,
+          "end": 9.312
+        },
+        {
+          "text": "was",
+          "start": 9.324,
+          "end": 9.455
+        },
+        {
+          "text": "no",
+          "start": 9.467,
+          "end": 9.717
+        },
+        {
+          "text": "sign",
+          "start": 9.729,
+          "end": 10.062
+        }
+      ]
+    },
+    {
+      "start": 10.074,
+      "end": 11.669,
+      "text": "OF VIOLENCE THE CAPTAIN",
+      "words": [
+        {
+          "text": "of",
+          "start": 10.074,
+          "end": 10.145
+        },
+        {
+          "text": "violence",
+          "start": 10.157,
+          "end": 10.705
+        },
+        {
+          "text": "The",
+          "start": 11.05,
+          "end": 11.217
+        },
+        {
+          "text": "captain",
+          "start": 11.229,
+          "end": 11.669
+        }
+      ]
+    },
+    {
+      "start": 11.883,
+      "end": 13.205,
+      "text": "HIS FAMILY AND SEVEN",
+      "words": [
+        {
+          "text": "his",
+          "start": 11.883,
+          "end": 12.002
+        },
+        {
+          "text": "family",
+          "start": 12.014,
+          "end": 12.49
+        },
+        {
+          "text": "and",
+          "start": 12.74,
+          "end": 12.859
+        },
+        {
+          "text": "seven",
+          "start": 12.871,
+          "end": 13.205
+        }
+      ]
+    },
+    {
+      "start": 13.217,
+      "end": 14.479,
+      "text": "CREW MEMBERS HAD DISAPPEARED",
+      "words": [
+        {
+          "text": "crew",
+          "start": 13.217,
+          "end": 13.383
+        },
+        {
+          "text": "members",
+          "start": 13.395,
+          "end": 13.764
+        },
+        {
+          "text": "had",
+          "start": 13.776,
+          "end": 13.895
+        },
+        {
+          "text": "disappeared",
+          "start": 13.907,
+          "end": 14.479
+        }
+      ]
+    },
+    {
+      "start": 14.824,
+      "end": 15.764,
+      "text": "NO ONE EVER PROVED",
+      "words": [
+        {
+          "text": "No",
+          "start": 14.824,
+          "end": 15.074
+        },
+        {
+          "text": "one",
+          "start": 15.086,
+          "end": 15.217
+        },
+        {
+          "text": "ever",
+          "start": 15.229,
+          "end": 15.407
+        },
+        {
+          "text": "proved",
+          "start": 15.419,
+          "end": 15.764
+        }
+      ]
+    },
+    {
+      "start": 15.776,
+      "end": 16.538,
+      "text": "WHY THEY ABANDONED A",
+      "words": [
+        {
+          "text": "why",
+          "start": 15.776,
+          "end": 15.883
+        },
+        {
+          "text": "they",
+          "start": 15.895,
+          "end": 16.014
+        },
+        {
+          "text": "abandoned",
+          "start": 16.026,
+          "end": 16.49
+        },
+        {
+          "text": "a",
+          "start": 16.502,
+          "end": 16.538
+        }
+      ]
+    },
+    {
+      "start": 16.55,
+      "end": 17.931,
+      "text": "PERFECTLY SEAWORTHY SHIP",
+      "words": [
+        {
+          "text": "perfectly",
+          "start": 16.55,
+          "end": 17.086
+        },
+        {
+          "text": "seaworthy",
+          "start": 17.098,
+          "end": 17.538
+        },
+        {
+          "text": "ship",
+          "start": 17.55,
+          "end": 17.931
+        }
+      ]
+    }
+  ]
+}

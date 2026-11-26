@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_014_isdal_woman",
+  "title": "The Woman With Many Names",
+  "description": "In 1970, an unidentified woman was found dead in Norway's Isdalen Valley. Investigators discovered coded notes, disguises, and travel identities, but her story remains unresolved.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1970, a woman was found dead in a Norwegian valley.",
+      "image_prompt": "A remote Norwegian valley surrounded by steep mountains in winter, distant investigation site, respectful non-graphic cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "Her clothing labels had been removed, making identification difficult.",
+      "image_prompt": "A carefully arranged collection of vintage clothing with cut labels on an evidence table, 1970s investigative atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Police discovered suitcases filled with wigs and disguises.",
+      "image_prompt": "Two vintage suitcases opened to reveal wigs, clothing, and travel items, cinematic detective evidence close-up, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "She had travelled under several different names across Europe.",
+      "image_prompt": "A 1970s European railway station with a lone woman seen from behind holding a suitcase, moody thriller realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Her real identity and final mission remain debated.",
+      "image_prompt": "An empty mountain valley fading into fog beside a lonely railway ticket, haunting cinematic mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

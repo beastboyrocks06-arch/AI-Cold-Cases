@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_004_roanoke",
+  "title": "The Colony That Vanished Without a Trace",
+  "description": "In 1590, English settlers returned to Roanoke and found the colony deserted. The word CROATOAN was carved into a post, but the settlers' fate remains uncertain.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "An English ship returned to Roanoke after years away.",
+      "image_prompt": "A wooden 16th century English sailing ship approaching a misty island settlement on the American coast, historical cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "But the entire settlement stood strangely silent and empty.",
+      "image_prompt": "An abandoned 16th century wooden colonial settlement, empty huts and overgrown paths, eerie morning mist, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "No bodies were found, and the houses had been dismantled.",
+      "image_prompt": "Empty wooden cabins with dismantled structures and abandoned tools, forest slowly reclaiming the settlement, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "One word had been carved into a wooden post: CROATOAN.",
+      "image_prompt": "Close-up of the word CROATOAN carved into a weathered wooden post, dramatic side lighting, suspenseful historical detail, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Did the settlers relocate, assimilate, or meet another fate?",
+      "image_prompt": "A lonely colonial settlement disappearing into dense coastal forest at twilight, mysterious atmospheric cinematic wide shot, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

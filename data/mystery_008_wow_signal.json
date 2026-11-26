@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_008_wow_signal",
+  "title": "The 72-Second Signal From Space",
+  "description": "In 1977, a radio telescope detected a powerful narrowband signal from space. It became known as the Wow! signal, and its source has never been confirmed.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1977, a radio telescope detected something extraordinary.",
+      "image_prompt": "A giant 1970s radio telescope under a star-filled night sky, cinematic science documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "A powerful signal appeared and lasted just seventy-two seconds.",
+      "image_prompt": "Vintage computer printout with a highlighted unusual radio signal, observatory control room, dramatic close-up, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "An astronomer circled the data and wrote one word: Wow!",
+      "image_prompt": "A scientist's hand circling a signal reading on aged computer paper, handwritten WOW annotation, cinematic macro shot, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "The signal came from the direction of the Sagittarius constellation.",
+      "image_prompt": "A glowing star field toward the Sagittarius region of the Milky Way, realistic astronomical visualization, vertical composition, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "It never repeated, and its source remains unknown.",
+      "image_prompt": "A lonely radio telescope listening beneath a vast silent galaxy, deep cosmic mystery, cinematic final frame, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_011_taos_hum",
+  "title": "The Mysterious Hum Only Some People Hear",
+  "description": "For decades, some residents near Taos, New Mexico, have reported a persistent low-frequency hum. Investigations have not found one explanation that accounts for every report.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In a quiet New Mexico town, some people hear a sound.",
+      "image_prompt": "A quiet small town near Taos, New Mexico, at twilight, desert mountains in the distance, cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "It is described as a low, distant humming noise.",
+      "image_prompt": "A person awake at night beside a window overlooking a silent desert town, subtle suspenseful lighting, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "But many neighbors hear absolutely nothing at all.",
+      "image_prompt": "Two neighboring houses under a still night sky, one warmly lit and one dark, atmospheric mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Researchers investigated equipment, roads, and possible environmental sources.",
+      "image_prompt": "Scientists setting up acoustic recording equipment in a quiet New Mexico landscape, documentary cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "No single explanation has solved every report of the hum.",
+      "image_prompt": "An empty desert road stretching toward distant mountains beneath a deep night sky, mysterious cinematic ending, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

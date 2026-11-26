@@ -1,0 +1,52 @@
+{
+  "video_id": "mystery_001_mary_celeste",
+  "title": "The Ship Found Sailing With Nobody Aboard",
+  "description": "In 1872, the Mary Celeste was discovered drifting across the Atlantic. Its crew had vanished, while the ship remained strangely intact.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1872, a ship drifted across the Atlantic completely alone.",
+      "image_prompt": "A 19th century merchant sailing ship drifting alone across the vast Atlantic ocean, ominous fog, cinematic historical realism, vertical 9:16 composition, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 2,
+      "narration": "Its cargo remained aboard, and the sails were still set.",
+      "image_prompt": "Close view of an abandoned 19th century sailing ship deck, secured cargo barrels and raised sails, eerie overcast light, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 3,
+      "narration": "The lifeboat was missing, but there was no sign of violence.",
+      "image_prompt": "Empty lifeboat davits on an old wooden ship, scattered ropes, calm dark ocean, suspenseful cinematic atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 4,
+      "narration": "The captain, his family, and seven crew members had disappeared.",
+      "image_prompt": "An empty ship cabin with an open logbook and abandoned personal belongings, candlelight, historical mystery, cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    },
+    {
+      "scene_id": 5,
+      "narration": "No one ever proved why they abandoned a perfectly seaworthy ship.",
+      "image_prompt": "The Mary Celeste sailing into thick Atlantic fog with no people visible, haunting wide shot, dramatic cinematic lighting, vertical 9:16 composition, no text, no watermark",
+      "image_generated": true
+    }
+  ],
+  "voiceover_generated": true,
+  "slides_generated": true,
+  "video_generated": true,
+  "uploaded": true,
+  "captions_generated": true,
+  "youtube_id": "yXvXQ5v0IiU",
+  "video_url": "https://www.youtube.com/watch?v=yXvXQ5v0IiU",
+  "uploaded_at": "2026-11-26T17:00:01.174611+00:00"
+}

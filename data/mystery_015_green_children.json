@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_015_green_children",
+  "title": "The Children Who Came From a Green World",
+  "description": "A medieval English chronicle tells of two children with green-tinted skin who appeared near Woolpit. Their story may blend folklore and misunderstood events.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "A medieval story describes two strange children near Woolpit.",
+      "image_prompt": "A 12th century English village near Woolpit, two mysterious children standing at its edge, historical folklore illustration style, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "They reportedly spoke an unfamiliar language and ate strangely.",
+      "image_prompt": "Two children in medieval clothing looking confused beside villagers offering food, gentle mysterious historical scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Their skin was said to have a greenish color.",
+      "image_prompt": "A respectful artistic depiction of two medieval children with a subtle green tint to their skin, folklore atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "One child later described a strange land without sunlight.",
+      "image_prompt": "A dreamlike underground green landscape with dim glowing light and distant fields, medieval folklore fantasy realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Was it folklore, illness, or a distorted memory of real events?",
+      "image_prompt": "An ancient English village fading into mist beneath a cloudy sky, mysterious medieval folklore cinematic ending, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

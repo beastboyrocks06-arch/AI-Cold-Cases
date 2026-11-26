@@ -1,0 +1,4 @@
+.env
+youtube_generate_token.py
+youtube_credentials.json
+coldcase_token.json

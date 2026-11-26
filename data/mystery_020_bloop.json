@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_020_bloop",
+  "title": "The Strange Sound Heard Across the Ocean",
+  "description": "In 1997, underwater microphones recorded an extremely powerful low-frequency sound in the South Pacific. NOAA later concluded it was consistent with ice-related activity, though it inspired many theories.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1997, underwater microphones captured a powerful mysterious sound.",
+      "image_prompt": "A deep ocean hydrophone suspended in dark blue water, scientific equipment, cinematic underwater realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The sound was detected by sensors thousands of miles apart.",
+      "image_prompt": "A map-like scientific visualization of the South Pacific with underwater listening stations, cinematic documentary style, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Its signal was so powerful that scientists named it Bloop.",
+      "image_prompt": "A dramatic audio waveform glowing on a 1990s research monitor, deep ocean imagery, cinematic close-up, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Some imagined an enormous unknown creature beneath the waves.",
+      "image_prompt": "A colossal shadow moving far below a research submarine in the dark ocean, speculative cinematic visualization, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "NOAA later linked the sound to ice, not a sea monster.",
+      "image_prompt": "A massive Antarctic iceberg cracking and shifting underwater, bubbles and deep blue light, scientific cinematic ending, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

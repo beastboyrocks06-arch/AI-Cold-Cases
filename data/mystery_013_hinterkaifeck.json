@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_013_hinterkaifeck",
+  "title": "The Farm Where Someone Was Hiding in the Attic",
+  "description": "In 1922, six people were killed at the isolated Hinterkaifeck farm in Germany. Strange signs were reported before the murders, but the case remains unsolved.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1922, a remote German farm became the scene of a mystery.",
+      "image_prompt": "An isolated Bavarian farmhouse surrounded by snow and dark woods in 1922, respectful non-graphic historical thriller atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The owner reportedly noticed unfamiliar footprints leading toward the house.",
+      "image_prompt": "Fresh footprints crossing snow toward an isolated farmhouse, no footprints leading away, cinematic suspense, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Strange noises were heard from somewhere inside the attic.",
+      "image_prompt": "A dark wooden attic above an old farmhouse, narrow beams and a faint lantern glow, eerie non-graphic scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Days passed before anyone realized something terrible had happened.",
+      "image_prompt": "An empty farmyard with a cold kitchen window and abandoned tools, restrained historical crime mystery atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The killer was never conclusively identified.",
+      "image_prompt": "A deserted Bavarian farmhouse under a heavy grey sky, distant forest and long shadows, cinematic unresolved ending, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}
