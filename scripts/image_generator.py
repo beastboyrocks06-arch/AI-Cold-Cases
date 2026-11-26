@@ -16,8 +16,8 @@ from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
-ACCOUNT_ID = os.getenv("CLOUDFLARE_ACCOUNT_ID")
-API_TOKEN = os.getenv("CLOUDFLARE_API_TOKEN")
+ACCOUNT_ID = "6c8155838548cbf420eb3c284f0efd5c"
+API_TOKEN = "cfut_mDclnywXEl8f20KmnPHVdwHaZX7vErUF5yZUeori9dc3460e"
 
 IMAGE_SIZE = (1080, 1920)
 IMAGE_QUALITY = 90
