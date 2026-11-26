@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "Three lighthouse keepers vanished from a remote Scottish island.",
       "image_prompt": "A solitary stone lighthouse on a rugged Scottish island surrounded by violent ocean waves, 1900 atmosphere, cinematic realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "A relief ship arrived and found the station completely empty.",
       "image_prompt": "A small early 20th century supply vessel approaching a lonely lighthouse, grey sea and heavy clouds, suspenseful scene, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "The lamps were prepared, but the keepers were nowhere.",
       "image_prompt": "An empty lighthouse lantern room with polished lamp equipment and an abandoned chair, cold blue light, historical realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "One set of oilskins was reportedly left behind.",
       "image_prompt": "An old waterproof coat hanging inside a deserted lighthouse, narrow stone corridor, eerie cinematic lighting, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "The sea may explain it, but nobody witnessed what happened.",
       "image_prompt": "Huge waves crashing against black cliffs below an isolated lighthouse, storm fading into mist, cinematic mystery, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }
