@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "In 1922, a remote farm in Bavaria became the scene of one of Germany's most disturbing unsolved crimes.",
       "image_prompt": "Isolated Bavarian farmstead in 1922 surrounded by snow-covered fields and dark woods, historical crime documentary realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "Before the murders, the family reportedly noticed strange footprints leading toward the house but none leading away.",
       "image_prompt": "Fresh footprints crossing snow toward an isolated farmhouse, untouched snow beyond the building, eerie winter atmosphere, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "They also reported unexplained noises in the attic and a missing set of keys.",
       "image_prompt": "Dark wooden farmhouse attic with a slightly open door and old keys on a table, 1920s setting, cinematic suspense, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "Six people were killed, including members of the family and their young maid.",
       "image_prompt": "Exterior of a secluded 1920s Bavarian farmhouse at night, police lanterns approaching, respectful non-graphic true-crime depiction, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "Investigators never identified the killer, and the farm's isolation left questions that still haunt the case.",
       "image_prompt": "Abandoned Bavarian farm ruins under a grey sky, bare trees and empty snow-covered yard, historical mystery atmosphere, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }
