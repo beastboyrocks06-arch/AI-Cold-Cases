@@ -3,8 +3,10 @@ name: Voice Generator (06:00 IST)
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "0 6 * * *"
+      timezone: "Asia/Kolkata"
   workflow_dispatch:
+
 
 permissions:
   contents: write
@@ -40,6 +42,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/ output/
-          git diff --cached --quiet || git commit -m "Generate story voiceovers"
-          git push
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate story voiceovers"
+            git push
+          else
+            echo "No generated files to commit."
+          fi
