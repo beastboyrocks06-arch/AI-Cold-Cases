@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_021_lars_mittank",
+  "title": "Lars Mittank: The Man Who Ran Into the Forest",
+  "description": "In 2014, German tourist Lars Mittank disappeared near Varna Airport in Bulgaria. Security footage showed him running out of the airport and into nearby wooded land; he has never been found.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In July 2014, German tourist Lars Mittank was waiting at an airport in Bulgaria before his flight home.",
+      "image_prompt": "Varna Airport in Bulgaria in 2014, lone young male traveler seated with a backpack, realistic modern documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "After an injury and a visit to a doctor, he reportedly became increasingly anxious about traveling.",
+      "image_prompt": "Modern airport hotel room with a travel bag and medical paperwork on a desk, tense but realistic documentary scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Airport security cameras captured him entering the terminal and suddenly running away.",
+      "image_prompt": "Airport CCTV-style wide view of a lone traveler running through a terminal corridor, 2014 surveillance aesthetic, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "He left his belongings behind and ran toward nearby wooded land.",
+      "image_prompt": "Lone male silhouette running from an airport perimeter toward a dense green tree line, Bulgaria summer landscape, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Despite searches and years of attention, Mittank has never been located.",
+      "image_prompt": "Empty forest edge near an airport at dusk, abandoned footpath disappearing between trees, unresolved disappearance documentary mood, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

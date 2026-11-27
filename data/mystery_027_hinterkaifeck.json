@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_027_hinterkaifeck",
+  "title": "The Hinterkaifeck Farm Murders",
+  "description": "In 1922, six people were murdered at an isolated Bavarian farm. Strange footprints, unexplained sounds and signs that someone may have remained on the property deepened the mystery. The killer was never identified.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1922, a remote farm in Bavaria became the scene of a chilling unsolved murder case.",
+      "image_prompt": "Isolated Bavarian farmstead in 1922 surrounded by snow-covered fields and dark woods, historical crime documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The family reportedly found footprints leading from the woods toward the house, but no clear tracks leading back.",
+      "image_prompt": "Fresh footprints in snow leading from a dark forest toward an isolated farmhouse, no return tracks visible, eerie winter atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "They also described strange noises in the attic and other unsettling signs around the property.",
+      "image_prompt": "Dark wooden farmhouse attic with old beams, a slightly open door and a dim lantern, 1920s historical suspense scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Six people were killed, including members of the family and their maid. The crime scene offered few clear answers.",
+      "image_prompt": "Exterior of a secluded 1920s Bavarian farmhouse as police arrive with lanterns, respectful non-graphic true-crime depiction, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Despite years of investigation, the person responsible was never conclusively identified.",
+      "image_prompt": "Abandoned Bavarian farm ruins beneath a grey sky, bare trees and empty snow-covered yard, haunting historical mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

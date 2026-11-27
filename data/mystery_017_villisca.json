@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_017_villisca",
+  "title": "The Villisca Axe Murders",
+  "description": "In 1912, eight people were killed inside a home in Villisca, Iowa. The case generated suspects and speculation but no one was convicted.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In June 1912, an ordinary family home in Villisca, Iowa, became the scene of a shocking crime.",
+      "image_prompt": "Quiet 1912 Midwestern American town street with a modest wooden house, early morning, historical documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "Eight people, including six children, were found murdered inside the house.",
+      "image_prompt": "Exterior of a 1912 wooden farmhouse with police arriving, respectful non-graphic true-crime depiction, no bodies, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Investigators noted unusual details, including covered mirrors and a household left strangely undisturbed.",
+      "image_prompt": "Dim 1912 bedroom interior with a cloth covering a mirror and period furniture, eerie but non-graphic historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "The investigation examined numerous suspects, but evidence never led to a conviction.",
+      "image_prompt": "Early twentieth-century detectives studying evidence and handwritten notes around a wooden table, period accurate, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "More than a century later, the Villisca case remains one of America's best-known unsolved mass murders.",
+      "image_prompt": "Historic Villisca house standing beneath a dark evening sky, porch light glowing, atmospheric true-crime documentary image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

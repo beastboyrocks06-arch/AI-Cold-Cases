@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_029_sodder_children",
+  "title": "The Five Sodder Children Who Vanished",
+  "description": "After a Christmas Eve house fire in 1945, five children from the Sodder family were never located. Their parents challenged the official explanation, and conflicting reports fueled decades of speculation.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "On Christmas Eve 1945, a fire destroyed the Sodder family home in West Virginia.",
+      "image_prompt": "1945 rural West Virginia family home at night with flames visible outside, snow-covered yard, respectful historical reenactment, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "When the fire was over, five of the family's children could not be found.",
+      "image_prompt": "Burned remains of a 1940s family house at dawn, anxious parents and neighbors nearby, non-graphic documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "The parents questioned why no identifiable remains of the missing children were recovered.",
+      "image_prompt": "1940s investigators examining the charred foundation of a family home, winter landscape, historical crime scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Reports of possible sightings and a suspected abduction added to the family's doubts, but were never conclusively verified.",
+      "image_prompt": "1940s roadside diner window with a family photograph and a distant passing car, moody historical mystery scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The Sodders spent years searching for answers, but the children's fate was never definitively established.",
+      "image_prompt": "Older parents beside a weathered roadside billboard displaying a family photograph, 1950s West Virginia, emotional documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

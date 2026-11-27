@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_008_flight_19",
+  "title": "Flight 19: The Bermuda Triangle Disappearance",
+  "description": "In December 1945, five U.S. Navy aircraft vanished during a training mission off Florida. Radio transmissions and a massive search turned the incident into one of aviation's enduring mysteries.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "On December 5, 1945, five Navy bombers took off from Florida for a routine training mission.",
+      "image_prompt": "Five World War Two era TBM Avenger torpedo bombers taking off from a Florida naval air station, 1945, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The flight leader soon reported that his compasses were behaving strangely and that he was unsure of his position.",
+      "image_prompt": "1940s naval pilot inside an Avenger cockpit studying a compass and navigation instruments, tense cinematic historical scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Radio operators heard confused exchanges as the pilots struggled to identify their location.",
+      "image_prompt": "1945 military radio room, naval operators wearing headsets listening intently to crackling transmissions, period accurate, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "The aircraft disappeared, and a rescue plane sent to search for them also vanished.",
+      "image_prompt": "Five military aircraft silhouettes over a darkening Atlantic ocean, distant search aircraft, dramatic 1940s aviation scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "No confirmed wreckage of the five bombers has been identified, and the exact sequence of events remains debated.",
+      "image_prompt": "Empty Atlantic ocean beneath a cloudy sunset, faint silhouettes of vintage aircraft reflected in waves, cinematic mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

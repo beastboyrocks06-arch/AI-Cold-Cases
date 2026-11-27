@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_028_somerton_man",
+  "title": "The Somerton Man: The Tamam Shud Mystery",
+  "description": "In 1948, an unidentified man was found dead on Somerton Beach in Adelaide, Australia. A hidden scrap reading TamÃƒÂ¡m Shud made the case famous. Later DNA research identified him as Carl Webb, though questions about his final days remain.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In December 1948, a neatly dressed man was found dead on Somerton Beach in Australia.",
+      "image_prompt": "Empty Somerton Beach near Adelaide at dawn in 1948, distant figure in formal clothing, historical crime documentary style, non-graphic, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "He carried no identification, and labels had been removed from much of his clothing.",
+      "image_prompt": "1940s investigator examining a folded suit, shoes and personal effects on a desk, period accurate forensic scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "A tiny scrap of paper reading Tamam Shud was discovered hidden in a concealed pocket.",
+      "image_prompt": "Close-up of a small aged paper scrap beside a 1940s suit pocket and magnifying glass, no additional readable text, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "A telephone number and a mysterious group of letters added another layer to the investigation.",
+      "image_prompt": "1940s detective desk with handwritten code notes, old telephone and magnifying glass, cinematic historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Modern DNA research identified the man as Carl Webb, but the circumstances of his death remain debated.",
+      "image_prompt": "Somerton Beach at sunset with waves washing over the sand, solitary empty shoreline, reflective historical mystery atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_045_axeman_new_orleans",
+  "title": "The Axeman of New Orleans",
+  "description": "Between 1918 and 1919, a series of attacks in New Orleans terrified residents. A letter attributed to the attacker claimed he would spare homes where jazz was played, though the letter's authenticity and details are debated.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1918, a series of violent attacks unsettled neighborhoods across New Orleans.",
+      "image_prompt": "1918 New Orleans residential street at night, gas lamps and historic houses, atmospheric true-crime documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The unknown attacker entered homes and assaulted residents, often using an axe found nearby.",
+      "image_prompt": "Shadowy view of an old wooden doorway and an axe resting outside, no people or graphic violence, period-accurate suspense, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Newspapers called the mysterious criminal the Axeman, and fear spread through the city.",
+      "image_prompt": "1910s newspaper office with reporters reading crime headlines, vintage printing press, no legible text, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "A letter attributed to the attacker claimed he would spare homes where jazz music was being played on a particular night.",
+      "image_prompt": "1919 New Orleans jazz musicians playing in a warmly lit parlor while neighbors listen, historical period clothing, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The attacks stopped, but the identity of the Axeman was never established.",
+      "image_prompt": "Empty French Quarter street in New Orleans at night, vintage streetlamps and shuttered doors, unresolved historical mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

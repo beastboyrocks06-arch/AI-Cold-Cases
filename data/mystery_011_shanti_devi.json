@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_011_shanti_devi",
+  "title": "Shanti Devi: The Girl Who Remembered Another Life",
+  "description": "In 1930s India, a young girl named Shanti Devi described memories of a previous life and identified a family in Mathura. Her case attracted public attention and investigation, but interpretations remain disputed.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1930s Delhi, a young girl began telling her family that she remembered another home and another life.",
+      "image_prompt": "1930s Indian family home in Delhi, young girl speaking earnestly with parents, historically accurate clothing and furnishings, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "She described a town called Mathura and details about a family she said she had known before.",
+      "image_prompt": "Historic streets of Mathura in the 1930s, traditional homes and market lane, period accurate Indian documentary scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Her statements attracted attention, and a committee was formed to examine the unusual claims.",
+      "image_prompt": "1930s Indian scholars and public figures reviewing handwritten notes around a table, historical documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Shanti Devi was taken to Mathura, where supporters said she recognized people and places.",
+      "image_prompt": "Young Indian girl arriving in a traditional Mathura neighborhood with adults, 1930s clothing, restrained historical reenactment, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The case remains famous in debates about memory and reincarnation, though its evidence has been interpreted in different ways.",
+      "image_prompt": "Quiet old Indian courtyard at sunset, empty doorway and traditional architecture, reflective historical mystery mood, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_043_voynich_manuscript",
+  "title": "The Voynich Manuscript: The Book Nobody Can Read",
+  "description": "The Voynich Manuscript is an illustrated codex believed to date to the early 15th century. Its unknown script and unusual botanical, astronomical and biological illustrations have resisted convincing decipherment.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "A centuries-old book sits in a library, filled with writing nobody has convincingly decoded.",
+      "image_prompt": "Open medieval manuscript on an archival library table, mysterious handwritten symbols and aged parchment, historical documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "Its pages contain strange plants that do not clearly match familiar botanical illustrations.",
+      "image_prompt": "Close-up of medieval manuscript page showing elaborate imaginary-looking plants in faded ink and watercolor, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Other pages depict circular diagrams, stars and unfamiliar astronomical arrangements.",
+      "image_prompt": "Ancient illustrated manuscript spread with circular celestial diagrams and zodiac-like symbols, parchment texture, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "The text uses a consistent but unknown writing system, and many proposed translations remain unproven.",
+      "image_prompt": "Researcher wearing archival gloves examining undeciphered manuscript writing beneath a magnifying glass, realistic library setting, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Despite modern computers and decades of study, no accepted full translation has emerged.",
+      "image_prompt": "Voynich Manuscript closed on a quiet archival desk beside a magnifying glass, warm low light, enduring historical mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

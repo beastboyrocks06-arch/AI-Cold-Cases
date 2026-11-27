@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_034_taos_hum",
+  "title": "The Taos Hum: The Sound Nobody Can Find",
+  "description": "Since the early 1990s, some residents of Taos, New Mexico, have reported hearing a persistent low-frequency hum. Investigations have not identified one definitive source that explains every report.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In the early 1990s, residents of Taos, New Mexico, began reporting a strange low rumbling sound.",
+      "image_prompt": "Quiet Taos New Mexico neighborhood at night, desert mountains in the distance, resident listening near a window, cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "They described it as a distant engine or low mechanical vibration that seemed difficult to escape.",
+      "image_prompt": "Close-up of a person awake in bed at night, subtle window reflections and quiet room, atmospheric documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Some people said they could hear it clearly, while others nearby heard absolutely nothing.",
+      "image_prompt": "Two neighbors standing in a quiet desert street at night, one listening and the other puzzled, realistic cinematic scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Researchers investigated possible environmental and industrial sources, but no single explanation settled the reports.",
+      "image_prompt": "Acoustic researchers setting up sensitive sound-measuring equipment in the New Mexico desert, documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The Taos Hum remains a fascinating example of a sound some people report but science has not definitively traced to one source.",
+      "image_prompt": "Wide nighttime view of Taos beneath a starry sky, isolated houses and desert mountains, mysterious quiet atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

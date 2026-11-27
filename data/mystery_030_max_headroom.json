@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_030_max_headroom",
+  "title": "The Max Headroom Broadcast Hijacking",
+  "description": "In 1987, an unknown intruder interrupted two Chicago television broadcasts with a bizarre masked performance and distorted audio. Despite an investigation, the person responsible was never publicly identified.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "On November 22, 1987, Chicago television viewers saw something they were never supposed to see.",
+      "image_prompt": "1980s living room with bulky CRT television showing sudden broadcast interference, viewers watching in surprise, period accurate, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "A masked figure suddenly appeared during an interruption of a local television broadcast.",
+      "image_prompt": "Distorted television screen showing a person wearing a rigid Max Headroom-style mask, analog static, 1980s broadcast aesthetic, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "The intruder delivered strange comments and bizarre gestures before the signal returned to normal.",
+      "image_prompt": "Masked performer in front of a rotating metal-panel backdrop, low-quality 1980s television image aesthetic, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Later that night, the signal was hijacked again during another Chicago broadcast.",
+      "image_prompt": "1980s television control room with engineers watching monitors and adjusting broadcast equipment, tense atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Authorities investigated, but the identity of the broadcaster has never been conclusively revealed.",
+      "image_prompt": "Empty 1980s television transmission room filled with analog equipment and glowing monitors, mysterious documentary mood, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

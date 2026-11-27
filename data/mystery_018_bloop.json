@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_018_bloop",
+  "title": "The Bloop: The Giant Sound From the Deep",
+  "description": "In 1997, underwater microphones recorded an extremely powerful low-frequency sound in the Pacific. Scientists later concluded it was consistent with ice-related seismic activity, not an unknown sea creature.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1997, underwater listening stations detected a sound unlike anything most people had heard.",
+      "image_prompt": "Deep dark Pacific Ocean with a scientific underwater hydrophone suspended in the water, cinematic science documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The signal was powerful enough to be detected by sensors thousands of miles apart.",
+      "image_prompt": "Underwater research monitoring station with scientists studying acoustic recordings on computer screens, documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "It became known as the Bloop, inspiring theories about an enormous unknown sea creature.",
+      "image_prompt": "Vast shadowy deep ocean with a tiny research submarine and immense indistinct underwater shapes, speculative cinematic illustration, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "For years, the source remained a subject of fascination and debate.",
+      "image_prompt": "Oceanographers reviewing a large acoustic waveform display in a research laboratory, no readable text, realistic documentary image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "NOAA later linked the sound to ice-related activity, showing how strange natural events can sound mysterious.",
+      "image_prompt": "Massive Antarctic ice shelf cracking and calving into the ocean, underwater bubbles and fractured blue ice, scientific cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

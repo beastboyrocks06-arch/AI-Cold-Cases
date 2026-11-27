@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_020_falcon_lake",
+  "title": "The Falcon Lake UFO Encounter",
+  "description": "In 1967, Canadian prospector Stefan Michalak reported encountering an unusual object near Falcon Lake, Manitoba, and later displayed burn-like injuries. The explanation remains disputed.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In May 1967, a Canadian prospector named Stefan Michalak was searching for minerals near Falcon Lake.",
+      "image_prompt": "1960s Canadian prospector exploring a rocky clearing in the Manitoba wilderness, period accurate clothing and equipment, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "He later said he saw two unusual glowing objects descend near the forest.",
+      "image_prompt": "Two mysterious glowing disc-shaped objects above a remote Canadian forest clearing, 1960s UFO encounter illustration, cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "According to his account, one object approached him while the other rose into the sky.",
+      "image_prompt": "Lone prospector cautiously approaching a metallic disc-shaped craft in a wooded clearing, atmospheric 1960s setting, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "He reported a sudden blast of hot air and later showed doctors a pattern of burn-like marks.",
+      "image_prompt": "1960s medical examination room with a doctor inspecting a patient's upper torso from a respectful distance, non-graphic, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Investigators examined the case, but the precise cause of the encounter and injuries remains disputed.",
+      "image_prompt": "Remote Falcon Lake forest clearing at twilight with a lone figure looking toward the sky, cinematic mystery documentary image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

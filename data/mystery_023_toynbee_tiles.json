@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_023_toynbee_tiles",
+  "title": "The Toynbee Tiles: Messages Hidden in City Streets",
+  "description": "Since the 1980s, mysterious plaques bearing cryptic messages have appeared embedded in asphalt in several cities. Their creator and meaning attracted years of investigation and speculation.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "For decades, strange messages have appeared embedded directly into city streets.",
+      "image_prompt": "Close-up of a weathered rectangular message tile embedded in an urban asphalt road, city pavement texture, documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The plaques became known as Toynbee Tiles, after a recurring reference to the historian Arnold Toynbee.",
+      "image_prompt": "Urban street intersection with a small cryptic pavement plaque, pedestrians walking past, realistic city documentary scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Their unusual message describes bringing the dead back to life on the planet Jupiter.",
+      "image_prompt": "Macro view of a worn mosaic-like pavement tile with abstract lettering, no newly invented readable words, mysterious urban atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Tiles were reported in cities across the United States and beyond, often disappearing as roads were repaired.",
+      "image_prompt": "Urban road maintenance workers examining a small embedded tile on a city street, modern documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The mystery inspired years of searching for the maker, with investigations pointing toward possible individuals but leaving debate.",
+      "image_prompt": "Nighttime city sidewalk with a single weathered pavement tile under a streetlamp, cinematic investigative mystery image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

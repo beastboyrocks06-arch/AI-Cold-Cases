@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_041_brian_shafer",
+  "title": "Brian Shaffer: The Student Who Entered a Bar and Vanished",
+  "description": "In 2006, medical student Brian Shaffer was seen entering a Columbus, Ohio bar, but investigators found no confirmed footage of him leaving. Despite extensive searches, he has never been found.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "On April 1, 2006, medical student Brian Shaffer went out with friends in Columbus, Ohio.",
+      "image_prompt": "Columbus Ohio nightlife street in 2006, young medical student walking toward a busy bar entrance, realistic documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "Security cameras recorded Brian entering the Ugly Tuna Saloona during a crowded night.",
+      "image_prompt": "2006-era bar entrance with people entering, grainy surveillance-camera perspective, urban nightlife, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "After the bar closed, investigators could not find confirmed footage showing him leaving.",
+      "image_prompt": "Empty bar interior after closing time, chairs on tables, security camera mounted near the exit, cinematic mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Police searched the area, interviewed witnesses and examined surveillance recordings, but no clear answer emerged.",
+      "image_prompt": "2006 police investigators reviewing VHS-style security footage and case notes in an office, documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Brian Shaffer has never been located, leaving one question at the heart of the case: how did he disappear?",
+      "image_prompt": "Quiet Columbus city street outside a closed bar at night, wet pavement and glowing streetlights, unresolved disappearance atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

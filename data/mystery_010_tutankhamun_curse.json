@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_010_tutankhamun_curse",
+  "title": "The Curse of King Tut's Tomb",
+  "description": "After Tutankhamun's tomb was opened in 1922, several people connected to the discovery died in later years. The famous curse story grew, although evidence for a supernatural cause is lacking.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In 1922, archaeologists uncovered the sealed tomb of an Egyptian pharaoh forgotten for centuries.",
+      "image_prompt": "Howard Carter-era archaeological team entering an ancient Egyptian tomb in the Valley of the Kings, 1922, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "Inside lay golden treasures and the remarkably preserved burial chamber of Tutankhamun.",
+      "image_prompt": "Ancient Egyptian burial chamber filled with gilded artifacts and ornate treasure, historically inspired archaeological photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Soon, newspapers began reporting deaths among people connected to the discovery.",
+      "image_prompt": "1920s newspaper office with reporters examining headlines about an Egyptian tomb, period accurate, no legible text, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Lord Carnarvon, who helped fund the excavation, died in 1923 after an illness.",
+      "image_prompt": "1920s historical portrait-style scene of an aristocratic British expedition sponsor resting in an Egyptian-era hotel room, respectful documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The so-called curse became legendary, but many claims were exaggerated and no supernatural explanation has been established.",
+      "image_prompt": "Ancient Egyptian tomb entrance at dusk, desert sand and torchlight, mysterious but historically grounded cinematic atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

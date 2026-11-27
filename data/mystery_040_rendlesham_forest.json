@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_040_rendlesham_forest",
+  "title": "The Rendlesham Forest Incident",
+  "description": "In December 1980, U.S. military personnel near RAF Woodbridge in England reported unusual lights in Rendlesham Forest. Witness accounts and interpretations differ, and the incident remains controversial.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In December 1980, strange lights appeared in a forest near two U.S. air bases in England.",
+      "image_prompt": "Dark Rendlesham Forest in Suffolk England, 1980, mysterious distant lights between tall trees, cinematic historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "American military personnel went into the woods to investigate what they thought might be an aircraft crash.",
+      "image_prompt": "1980s U.S. Air Force personnel in winter uniforms walking through a dark English forest with flashlights, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Some witnesses later described a glowing object moving among the trees and across the sky.",
+      "image_prompt": "Unusual glowing light between pine trees in a cold winter forest, military flashlight beams, restrained UFO documentary illustration, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "A later military memo recorded reports of unusual lights and claims about physical traces in the area.",
+      "image_prompt": "1980s military officer writing a report at a desk with maps and field notes, period accurate documentary scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Skeptics and witnesses disagree about what happened, and the incident remains one of Britain's best-known UFO cases.",
+      "image_prompt": "Empty forest clearing at dawn with winter mist and tall trees, mysterious but realistic historical documentary image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

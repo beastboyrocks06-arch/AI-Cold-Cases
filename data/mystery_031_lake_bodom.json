@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_031_lake_bodom",
+  "title": "The Lake Bodom Murders",
+  "description": "In 1960, four teenagers camping beside Finland's Lake Bodom were attacked. Three were killed and one survived. A later trial ended without a conviction, leaving the case unresolved.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In June 1960, four teenagers camped beside a peaceful lake in Finland.",
+      "image_prompt": "Four teenage campers beside a tent at Lake Bodom in Finland, summer 1960, historical documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "During the night, someone attacked their tent while they slept.",
+      "image_prompt": "Small camping tent among lakeside trees at night, moonlight on water, suspenseful non-graphic historical scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Three teenagers were killed, while one survived with injuries and incomplete memories.",
+      "image_prompt": "Finnish police and rescue workers approaching a lakeside campsite at dawn, respectful non-graphic crime documentary depiction, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Decades later, a former survivor was tried in connection with the murders but was acquitted.",
+      "image_prompt": "Finnish courtroom in the early 2000s, judge and lawyers seen from behind, restrained documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The killer's identity remains unknown, and the quiet lakeside became a lasting symbol of the mystery.",
+      "image_prompt": "Still Lake Bodom at dusk, empty forest campsite and dark water, atmospheric Finnish landscape photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_039_kentucky_meat_shower",
+  "title": "The Kentucky Meat Shower of 1876",
+  "description": "In 1876, pieces of unidentified animal tissue reportedly fell over a Kentucky farm. Witnesses described material scattered across a field, but its exact source and cause remain uncertain.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In March 1876, a Kentucky farm became the center of one of history's strangest reported events.",
+      "image_prompt": "1870s rural Bath County Kentucky farm under a clear spring sky, wooden farmhouse and open pasture, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "Witnesses said pieces of a strange substance fell from the sky across a field.",
+      "image_prompt": "Open nineteenth-century farm field with small pale fragments scattered across grass, no graphic detail, historical documentary illustration, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "The material was described as resembling meat, and samples reportedly attracted scientific attention.",
+      "image_prompt": "1870s scientists examining small unidentified organic samples on glass plates in a simple laboratory, non-graphic, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Explanations ranged from animal remains carried by birds to other natural possibilities.",
+      "image_prompt": "Vultures flying over a rural Kentucky pasture beneath a bright sky, nineteenth-century landscape, natural-history documentary image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "More than a century later, the Kentucky Meat Shower remains an unusual historical report without a universally accepted explanation.",
+      "image_prompt": "Quiet Kentucky farmland beneath dramatic clouds, empty pasture and distant farmhouse, atmospheric historical mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

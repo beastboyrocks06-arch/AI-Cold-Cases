@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_022_circleville_letters",
+  "title": "The Circleville Letter Writer",
+  "description": "Beginning in the 1970s, residents of Circleville, Ohio, received anonymous threatening letters exposing personal details. The identity and full scope of the letter-writing campaign remain debated.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In the 1970s, residents of Circleville, Ohio, began receiving disturbing anonymous letters.",
+      "image_prompt": "1970s small-town Ohio home with an envelope lying on a wooden porch, overcast afternoon, historical mystery photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The letters contained personal information and accusations that seemed to come from someone who knew the town well.",
+      "image_prompt": "1970s kitchen table covered with anonymous handwritten letters and envelopes, close-up, no legible text, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Some messages escalated into threats, turning a quiet community against itself.",
+      "image_prompt": "Empty 1970s small-town street with neighbors watching from windows, uneasy atmosphere, period accurate, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "A local school-bus driver became central to the investigation after a dangerous roadside sign incident.",
+      "image_prompt": "1970s rural Ohio roadside with a wooden sign and police vehicle nearby, non-graphic historical crime scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Even after arrests and convictions connected to parts of the case, questions about the letters continued for years.",
+      "image_prompt": "Old envelopes and handwritten pages stored in an evidence archive, single desk lamp, investigative documentary mood, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

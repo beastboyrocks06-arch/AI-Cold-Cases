@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_046_kelly_hopkinsville",
+  "title": "The Kelly-Hopkinsville Encounter",
+  "description": "In August 1955, the Sutton family near Kelly and Hopkinsville, Kentucky, reported seeing strange small figures around their farmhouse. The family said they fired at the figures, but the explanation remains disputed.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "On an August night in 1955, a Kentucky family reported strange visitors around their farmhouse.",
+      "image_prompt": "1950s rural Kentucky farmhouse at night, family looking toward a dark yard, period accurate setting, cinematic realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The family described small figures with large eyes and unusual glowing appearances near the property.",
+      "image_prompt": "Small unusual silhouette at the edge of a moonlit rural yard, oversized eyes suggested subtly, restrained 1950s UFO folklore illustration, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "They said the figures appeared near windows and around the house, frightening everyone inside.",
+      "image_prompt": "View from inside a 1950s farmhouse toward a dark window, family silhouettes and an indistinct shape outside, suspenseful non-graphic scene, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "The family reported firing weapons at the figures, but said the objects seemed unaffected and returned repeatedly.",
+      "image_prompt": "1950s farmhouse porch at night with a frightened family member holding a flashlight, distant shadow near trees, no weapon discharge, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Police investigated, but no physical evidence settled what the family had encountered.",
+      "image_prompt": "Police officers and local investigators outside a rural Kentucky farmhouse at dawn, 1955 historical documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

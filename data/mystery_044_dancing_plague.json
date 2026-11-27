@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_044_dancing_plague",
+  "title": "The Dancing Plague of 1518",
+  "description": "In Strasbourg in 1518, a group of people began dancing uncontrollably, and contemporary accounts describe the episode spreading to many others. Historians and researchers still debate its causes and scale.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In the summer of 1518, a woman in Strasbourg reportedly began dancing in the street and could not stop.",
+      "image_prompt": "Sixteenth-century Strasbourg street with a lone woman dancing in the town square, historically inspired European setting, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "According to contemporary accounts, more people joined, moving for hours and days.",
+      "image_prompt": "Crowd in a 1518 European town square dancing in an exhausted, bewildered manner, historical reenactment, non-sensational, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "Some reports claimed that the episode spread through the city and caused serious physical distress.",
+      "image_prompt": "Medieval town square with exhausted townspeople and concerned observers, period clothing, respectful historical documentary image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Authorities tried different responses, including providing space and musicians, before changing their approach.",
+      "image_prompt": "Sixteenth-century Strasbourg officials discussing the crisis in a town hall, musicians and townspeople nearby, historical realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "Theories include mass psychogenic illness and other social or environmental explanations, but no single cause is certain.",
+      "image_prompt": "Empty medieval Strasbourg square at twilight, church towers and cobblestones, reflective historical mystery atmosphere, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}

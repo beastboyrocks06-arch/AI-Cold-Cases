@@ -1,0 +1,48 @@
+{
+  "video_id": "mystery_042_uss_cyclops",
+  "title": "The Disappearance of the USS Cyclops",
+  "description": "In March 1918, the U.S. Navy collier USS Cyclops disappeared in the Atlantic with 306 people aboard. It sent no distress call, and neither the ship nor its crew was found.",
+  "category": "mystery",
+  "aspect_ratio": "9:16",
+  "voice": {
+    "provider": "edge_tts",
+    "name": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "In March 1918, a massive U.S. Navy cargo ship sailed from Barbados toward Baltimore.",
+      "image_prompt": "USS Cyclops, a large 1910s U.S. Navy collier at sea, historically accurate ship design, overcast Atlantic, documentary realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 2,
+      "narration": "The vessel carried more than 300 people and a cargo of manganese ore.",
+      "image_prompt": "Early twentieth-century cargo hold stacked with ore aboard a naval collier, sailors working, historical maritime realism, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 3,
+      "narration": "The ship never arrived, and no confirmed distress call was received.",
+      "image_prompt": "Large naval collier sailing alone across a vast dark Atlantic ocean, storm clouds gathering, cinematic historical image, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 4,
+      "narration": "Searchers found no wreckage, lifeboats or confirmed trace of the vessel.",
+      "image_prompt": "Empty turbulent Atlantic sea viewed from a 1918 search vessel, distant horizon, historical documentary photography, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    },
+    {
+      "scene_id": 5,
+      "narration": "The cause remains unknown, with theories including structural failure, weather and wartime action.",
+      "image_prompt": "Ghostly silhouette of a large collier fading into Atlantic fog, dramatic ocean, unresolved maritime mystery, vertical 9:16 composition, no text, no watermark",
+      "image_generated": false
+    }
+  ],
+  "voiceover_generated": false,
+  "slides_generated": false,
+  "video_generated": false,
+  "uploaded": false
+}
