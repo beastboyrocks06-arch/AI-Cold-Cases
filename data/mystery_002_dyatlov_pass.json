@@ -44,6 +44,9 @@
   "voiceover_generated": true,
   "slides_generated": true,
   "video_generated": true,
-  "uploaded": false,
-  "captions_generated": true
+  "uploaded": true,
+  "captions_generated": true,
+  "youtube_id": "eraS78aT-kk",
+  "video_url": "https://www.youtube.com/watch?v=eraS78aT-kk",
+  "uploaded_at": "2026-11-27T03:48:39.710454+00:00"
 }
