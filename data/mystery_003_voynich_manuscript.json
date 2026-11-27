@@ -43,6 +43,7 @@
   ],
   "voiceover_generated": true,
   "slides_generated": true,
-  "video_generated": false,
-  "uploaded": false
+  "video_generated": true,
+  "uploaded": false,
+  "captions_generated": true
 }

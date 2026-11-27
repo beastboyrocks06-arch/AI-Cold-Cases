@@ -1,0 +1,305 @@
+{
+  "video_id": "mystery_003_voynich_manuscript",
+  "width": 1080,
+  "height": 1920,
+  "style_name": "yellow_bold",
+  "font": {
+    "filename": "dejavu-sans-bold.ttf",
+    "path": "/home/runner/work/AI-Cold-Cases/AI-Cold-Cases/fonts/dejavu-sans-bold.ttf"
+  },
+  "style": {
+    "font_size": 86,
+    "font_color": "#FFD21F",
+    "outline_color": "#000000",
+    "outline_width": 6,
+    "shadow": 3,
+    "bold": true,
+    "italic": true,
+    "position": "center"
+  },
+  "caption_count": 11,
+  "captions": [
+    {
+      "start": 0.1,
+      "end": 1.243,
+      "text": "A STRANGE BOOK APPEARED",
+      "words": [
+        {
+          "text": "A",
+          "start": 0.1,
+          "end": 0.243
+        },
+        {
+          "text": "strange",
+          "start": 0.255,
+          "end": 0.659
+        },
+        {
+          "text": "book",
+          "start": 0.671,
+          "end": 0.838
+        },
+        {
+          "text": "appeared",
+          "start": 0.85,
+          "end": 1.243
+        }
+      ]
+    },
+    {
+      "start": 1.588,
+      "end": 2.814,
+      "text": "FILLED WITH WRITING NOBODY",
+      "words": [
+        {
+          "text": "filled",
+          "start": 1.588,
+          "end": 1.874
+        },
+        {
+          "text": "with",
+          "start": 1.886,
+          "end": 2.005
+        },
+        {
+          "text": "writing",
+          "start": 2.017,
+          "end": 2.386
+        },
+        {
+          "text": "nobody",
+          "start": 2.398,
+          "end": 2.814
+        }
+      ]
+    },
+    {
+      "start": 2.826,
+      "end": 4.55,
+      "text": "UNDERSTOOD ITS PAGES SHOWED",
+      "words": [
+        {
+          "text": "understood",
+          "start": 2.826,
+          "end": 3.362
+        },
+        {
+          "text": "Its",
+          "start": 3.705,
+          "end": 3.907
+        },
+        {
+          "text": "pages",
+          "start": 3.919,
+          "end": 4.3
+        },
+        {
+          "text": "showed",
+          "start": 4.312,
+          "end": 4.55
+        }
+      ]
+    },
+    {
+      "start": 4.562,
+      "end": 6.371,
+      "text": "IMPOSSIBLE PLANTS AND UNFAMILIAR",
+      "words": [
+        {
+          "text": "impossible",
+          "start": 4.562,
+          "end": 5.229
+        },
+        {
+          "text": "plants",
+          "start": 5.24,
+          "end": 5.681
+        },
+        {
+          "text": "and",
+          "start": 5.693,
+          "end": 5.824
+        },
+        {
+          "text": "unfamiliar",
+          "start": 5.836,
+          "end": 6.371
+        }
+      ]
+    },
+    {
+      "start": 6.383,
+      "end": 8.407,
+      "text": "DIAGRAMS THE HANDWRITING REPEATS",
+      "words": [
+        {
+          "text": "diagrams",
+          "start": 6.383,
+          "end": 7.05
+        },
+        {
+          "text": "The",
+          "start": 7.395,
+          "end": 7.562
+        },
+        {
+          "text": "handwriting",
+          "start": 7.574,
+          "end": 8.038
+        },
+        {
+          "text": "repeats",
+          "start": 8.05,
+          "end": 8.407
+        }
+      ]
+    },
+    {
+      "start": 8.419,
+      "end": 9.336,
+      "text": "PATTERNS LIKE A REAL",
+      "words": [
+        {
+          "text": "patterns",
+          "start": 8.419,
+          "end": 8.836
+        },
+        {
+          "text": "like",
+          "start": 8.848,
+          "end": 8.967
+        },
+        {
+          "text": "a",
+          "start": 8.979,
+          "end": 9.014
+        },
+        {
+          "text": "real",
+          "start": 9.026,
+          "end": 9.336
+        }
+      ]
+    },
+    {
+      "start": 9.348,
+      "end": 11.729,
+      "text": "LANGUAGE CRYPTOGRAPHERS LINGUISTS",
+      "words": [
+        {
+          "text": "language",
+          "start": 9.348,
+          "end": 9.812
+        },
+        {
+          "text": "Cryptographers",
+          "start": 10.157,
+          "end": 11.05
+        },
+        {
+          "text": "linguists",
+          "start": 11.252,
+          "end": 11.729
+        }
+      ]
+    },
+    {
+      "start": 11.919,
+      "end": 12.979,
+      "text": "AND COMPUTERS ALL TRIED",
+      "words": [
+        {
+          "text": "and",
+          "start": 11.919,
+          "end": 12.026
+        },
+        {
+          "text": "computers",
+          "start": 12.038,
+          "end": 12.586
+        },
+        {
+          "text": "all",
+          "start": 12.61,
+          "end": 12.74
+        },
+        {
+          "text": "tried",
+          "start": 12.752,
+          "end": 12.979
+        }
+      ]
+    },
+    {
+      "start": 12.99,
+      "end": 14.467,
+      "text": "TO DECODE IT CENTURIES",
+      "words": [
+        {
+          "text": "to",
+          "start": 12.99,
+          "end": 13.026
+        },
+        {
+          "text": "decode",
+          "start": 13.038,
+          "end": 13.431
+        },
+        {
+          "text": "it",
+          "start": 13.443,
+          "end": 13.562
+        },
+        {
+          "text": "Centuries",
+          "start": 13.907,
+          "end": 14.467
+        }
+      ]
+    },
+    {
+      "start": 14.479,
+      "end": 15.717,
+      "text": "LATER ITS TRUE MEANING",
+      "words": [
+        {
+          "text": "later",
+          "start": 14.479,
+          "end": 14.8
+        },
+        {
+          "text": "its",
+          "start": 15.086,
+          "end": 15.193
+        },
+        {
+          "text": "true",
+          "start": 15.205,
+          "end": 15.419
+        },
+        {
+          "text": "meaning",
+          "start": 15.431,
+          "end": 15.717
+        }
+      ]
+    },
+    {
+      "start": 15.729,
+      "end": 16.895,
+      "text": "REMAINS UNCONFIRMED",
+      "words": [
+        {
+          "text": "remains",
+          "start": 15.729,
+          "end": 16.193
+        },
+        {
+          "text": "unconfirmed",
+          "start": 16.205,
+          "end": 16.895
+        }
+      ]
+    }
+  ]
+}
