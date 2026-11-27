@@ -1,0 +1,382 @@
+[
+  {
+    "word": "For",
+    "start": 0,
+    "end": 0.188
+  },
+  {
+    "word": "decades,",
+    "start": 0.188,
+    "end": 0.751
+  },
+  {
+    "word": "a",
+    "start": 0.751,
+    "end": 0.876
+  },
+  {
+    "word": "strange",
+    "start": 0.876,
+    "end": 1.314
+  },
+  {
+    "word": "buzzing",
+    "start": 1.314,
+    "end": 1.752
+  },
+  {
+    "word": "sound",
+    "start": 1.752,
+    "end": 2.065
+  },
+  {
+    "word": "has",
+    "start": 2.065,
+    "end": 2.253
+  },
+  {
+    "word": "echoed",
+    "start": 2.253,
+    "end": 2.628
+  },
+  {
+    "word": "across",
+    "start": 2.628,
+    "end": 3.003
+  },
+  {
+    "word": "a",
+    "start": 3.003,
+    "end": 3.128
+  },
+  {
+    "word": "shortwave",
+    "start": 3.128,
+    "end": 3.692
+  },
+  {
+    "word": "radio",
+    "start": 3.692,
+    "end": 4.004
+  },
+  {
+    "word": "frequency.",
+    "start": 4.004,
+    "end": 4.88
+  },
+  {
+    "word": "Listeners",
+    "start": 4.88,
+    "end": 5.444
+  },
+  {
+    "word": "know",
+    "start": 5.444,
+    "end": 5.694
+  },
+  {
+    "word": "the",
+    "start": 5.694,
+    "end": 5.882
+  },
+  {
+    "word": "signal",
+    "start": 5.882,
+    "end": 6.257
+  },
+  {
+    "word": "by",
+    "start": 6.257,
+    "end": 6.382
+  },
+  {
+    "word": "the",
+    "start": 6.382,
+    "end": 6.57
+  },
+  {
+    "word": "nickname",
+    "start": 6.57,
+    "end": 7.07
+  },
+  {
+    "word": "The",
+    "start": 7.07,
+    "end": 7.258
+  },
+  {
+    "word": "Buzzer,",
+    "start": 7.258,
+    "end": 7.759
+  },
+  {
+    "word": "often",
+    "start": 7.759,
+    "end": 8.071
+  },
+  {
+    "word": "associated",
+    "start": 8.071,
+    "end": 8.697
+  },
+  {
+    "word": "with",
+    "start": 8.697,
+    "end": 8.947
+  },
+  {
+    "word": "the",
+    "start": 8.947,
+    "end": 9.135
+  },
+  {
+    "word": "callsign",
+    "start": 9.135,
+    "end": 9.636
+  },
+  {
+    "word": "UVB-76.",
+    "start": 9.636,
+    "end": 10.261
+  },
+  {
+    "word": "Most",
+    "start": 10.261,
+    "end": 10.512
+  },
+  {
+    "word": "of",
+    "start": 10.512,
+    "end": 10.637
+  },
+  {
+    "word": "the",
+    "start": 10.637,
+    "end": 10.825
+  },
+  {
+    "word": "time,",
+    "start": 10.825,
+    "end": 11.2
+  },
+  {
+    "word": "the",
+    "start": 11.2,
+    "end": 11.388
+  },
+  {
+    "word": "transmission",
+    "start": 11.388,
+    "end": 12.138
+  },
+  {
+    "word": "repeats",
+    "start": 12.138,
+    "end": 12.576
+  },
+  {
+    "word": "a",
+    "start": 12.576,
+    "end": 12.702
+  },
+  {
+    "word": "monotonous",
+    "start": 12.702,
+    "end": 13.327
+  },
+  {
+    "word": "buzzing",
+    "start": 13.327,
+    "end": 13.765
+  },
+  {
+    "word": "tone",
+    "start": 13.765,
+    "end": 14.016
+  },
+  {
+    "word": "with",
+    "start": 14.016,
+    "end": 14.266
+  },
+  {
+    "word": "little",
+    "start": 14.266,
+    "end": 14.641
+  },
+  {
+    "word": "variation.",
+    "start": 14.641,
+    "end": 15.517
+  },
+  {
+    "word": "Occasionally,",
+    "start": 15.517,
+    "end": 16.393
+  },
+  {
+    "word": "the",
+    "start": 16.393,
+    "end": 16.581
+  },
+  {
+    "word": "buzz",
+    "start": 16.581,
+    "end": 16.831
+  },
+  {
+    "word": "is",
+    "start": 16.831,
+    "end": 16.956
+  },
+  {
+    "word": "interrupted",
+    "start": 16.956,
+    "end": 17.645
+  },
+  {
+    "word": "by",
+    "start": 17.645,
+    "end": 17.77
+  },
+  {
+    "word": "a",
+    "start": 17.77,
+    "end": 17.895
+  },
+  {
+    "word": "voice",
+    "start": 17.895,
+    "end": 18.208
+  },
+  {
+    "word": "reading",
+    "start": 18.208,
+    "end": 18.646
+  },
+  {
+    "word": "names",
+    "start": 18.646,
+    "end": 18.959
+  },
+  {
+    "word": "or",
+    "start": 18.959,
+    "end": 19.084
+  },
+  {
+    "word": "groups",
+    "start": 19.084,
+    "end": 19.459
+  },
+  {
+    "word": "of",
+    "start": 19.459,
+    "end": 19.584
+  },
+  {
+    "word": "numbers.",
+    "start": 19.584,
+    "end": 20.335
+  },
+  {
+    "word": "Theories",
+    "start": 20.335,
+    "end": 20.836
+  },
+  {
+    "word": "range",
+    "start": 20.836,
+    "end": 21.149
+  },
+  {
+    "word": "from",
+    "start": 21.149,
+    "end": 21.399
+  },
+  {
+    "word": "military",
+    "start": 21.399,
+    "end": 21.899
+  },
+  {
+    "word": "communications",
+    "start": 21.899,
+    "end": 22.775
+  },
+  {
+    "word": "to",
+    "start": 22.775,
+    "end": 22.9
+  },
+  {
+    "word": "a",
+    "start": 22.9,
+    "end": 23.026
+  },
+  {
+    "word": "channel",
+    "start": 23.026,
+    "end": 23.464
+  },
+  {
+    "word": "kept",
+    "start": 23.464,
+    "end": 23.714
+  },
+  {
+    "word": "active",
+    "start": 23.714,
+    "end": 24.089
+  },
+  {
+    "word": "for",
+    "start": 24.089,
+    "end": 24.277
+  },
+  {
+    "word": "unknown",
+    "start": 24.277,
+    "end": 24.715
+  },
+  {
+    "word": "operational",
+    "start": 24.715,
+    "end": 25.403
+  },
+  {
+    "word": "reasons,",
+    "start": 25.403,
+    "end": 25.966
+  },
+  {
+    "word": "but",
+    "start": 25.966,
+    "end": 26.154
+  },
+  {
+    "word": "its",
+    "start": 26.154,
+    "end": 26.342
+  },
+  {
+    "word": "precise",
+    "start": 26.342,
+    "end": 26.78
+  },
+  {
+    "word": "purpose",
+    "start": 26.78,
+    "end": 27.218
+  },
+  {
+    "word": "is",
+    "start": 27.218,
+    "end": 27.343
+  },
+  {
+    "word": "unconfirmed.",
+    "start": 27.343,
+    "end": 28.344
+  }
+]

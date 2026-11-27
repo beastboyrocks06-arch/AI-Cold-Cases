@@ -41,7 +41,7 @@
       "image_generated": true
     }
   ],
-  "voiceover_generated": false,
+  "voiceover_generated": true,
   "slides_generated": true,
   "video_generated": false,
   "uploaded": false

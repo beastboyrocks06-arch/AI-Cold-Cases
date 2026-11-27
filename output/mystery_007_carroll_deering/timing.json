@@ -1,0 +1,382 @@
+[
+  {
+    "word": "In",
+    "start": 0,
+    "end": 0.123
+  },
+  {
+    "word": "January",
+    "start": 0.123,
+    "end": 0.555
+  },
+  {
+    "word": "1921,",
+    "start": 0.555,
+    "end": 0.925
+  },
+  {
+    "word": "a",
+    "start": 0.925,
+    "end": 1.048
+  },
+  {
+    "word": "huge",
+    "start": 1.048,
+    "end": 1.295
+  },
+  {
+    "word": "sailing",
+    "start": 1.295,
+    "end": 1.727
+  },
+  {
+    "word": "ship",
+    "start": 1.727,
+    "end": 1.974
+  },
+  {
+    "word": "appeared",
+    "start": 1.974,
+    "end": 2.467
+  },
+  {
+    "word": "stranded",
+    "start": 2.467,
+    "end": 2.96
+  },
+  {
+    "word": "off",
+    "start": 2.96,
+    "end": 3.145
+  },
+  {
+    "word": "the",
+    "start": 3.145,
+    "end": 3.33
+  },
+  {
+    "word": "coast",
+    "start": 3.33,
+    "end": 3.639
+  },
+  {
+    "word": "of",
+    "start": 3.639,
+    "end": 3.762
+  },
+  {
+    "word": "North",
+    "start": 3.762,
+    "end": 4.07
+  },
+  {
+    "word": "Carolina.",
+    "start": 4.07,
+    "end": 4.872
+  },
+  {
+    "word": "The",
+    "start": 4.872,
+    "end": 5.057
+  },
+  {
+    "word": "ship",
+    "start": 5.057,
+    "end": 5.304
+  },
+  {
+    "word": "was",
+    "start": 5.304,
+    "end": 5.489
+  },
+  {
+    "word": "the",
+    "start": 5.489,
+    "end": 5.674
+  },
+  {
+    "word": "Carroll",
+    "start": 5.674,
+    "end": 6.106
+  },
+  {
+    "word": "A.",
+    "start": 6.106,
+    "end": 6.537
+  },
+  {
+    "word": "Deering,",
+    "start": 6.537,
+    "end": 7.092
+  },
+  {
+    "word": "returning",
+    "start": 7.092,
+    "end": 7.648
+  },
+  {
+    "word": "from",
+    "start": 7.648,
+    "end": 7.894
+  },
+  {
+    "word": "a",
+    "start": 7.894,
+    "end": 8.018
+  },
+  {
+    "word": "voyage",
+    "start": 8.018,
+    "end": 8.388
+  },
+  {
+    "word": "to",
+    "start": 8.388,
+    "end": 8.511
+  },
+  {
+    "word": "the",
+    "start": 8.511,
+    "end": 8.696
+  },
+  {
+    "word": "Caribbean.",
+    "start": 8.696,
+    "end": 9.559
+  },
+  {
+    "word": "A",
+    "start": 9.559,
+    "end": 9.683
+  },
+  {
+    "word": "lightship",
+    "start": 9.683,
+    "end": 10.238
+  },
+  {
+    "word": "crew",
+    "start": 10.238,
+    "end": 10.485
+  },
+  {
+    "word": "had",
+    "start": 10.485,
+    "end": 10.67
+  },
+  {
+    "word": "recently",
+    "start": 10.67,
+    "end": 11.163
+  },
+  {
+    "word": "seen",
+    "start": 11.163,
+    "end": 11.41
+  },
+  {
+    "word": "men",
+    "start": 11.41,
+    "end": 11.595
+  },
+  {
+    "word": "aboard,",
+    "start": 11.595,
+    "end": 12.088
+  },
+  {
+    "word": "including",
+    "start": 12.088,
+    "end": 12.643
+  },
+  {
+    "word": "someone",
+    "start": 12.643,
+    "end": 13.075
+  },
+  {
+    "word": "signaling",
+    "start": 13.075,
+    "end": 13.63
+  },
+  {
+    "word": "that",
+    "start": 13.63,
+    "end": 13.877
+  },
+  {
+    "word": "the",
+    "start": 13.877,
+    "end": 14.062
+  },
+  {
+    "word": "vessel",
+    "start": 14.062,
+    "end": 14.432
+  },
+  {
+    "word": "had",
+    "start": 14.432,
+    "end": 14.617
+  },
+  {
+    "word": "lost",
+    "start": 14.617,
+    "end": 14.863
+  },
+  {
+    "word": "its",
+    "start": 14.863,
+    "end": 15.048
+  },
+  {
+    "word": "anchors.",
+    "start": 15.048,
+    "end": 15.788
+  },
+  {
+    "word": "When",
+    "start": 15.788,
+    "end": 16.035
+  },
+  {
+    "word": "rescuers",
+    "start": 16.035,
+    "end": 16.529
+  },
+  {
+    "word": "finally",
+    "start": 16.529,
+    "end": 16.96
+  },
+  {
+    "word": "boarded,",
+    "start": 16.96,
+    "end": 17.515
+  },
+  {
+    "word": "the",
+    "start": 17.515,
+    "end": 17.7
+  },
+  {
+    "word": "Deering",
+    "start": 17.7,
+    "end": 18.132
+  },
+  {
+    "word": "was",
+    "start": 18.132,
+    "end": 18.317
+  },
+  {
+    "word": "deserted",
+    "start": 18.317,
+    "end": 18.81
+  },
+  {
+    "word": "and",
+    "start": 18.81,
+    "end": 18.996
+  },
+  {
+    "word": "its",
+    "start": 18.996,
+    "end": 19.181
+  },
+  {
+    "word": "lifeboats",
+    "start": 19.181,
+    "end": 19.736
+  },
+  {
+    "word": "were",
+    "start": 19.736,
+    "end": 19.982
+  },
+  {
+    "word": "gone.",
+    "start": 19.982,
+    "end": 20.537
+  },
+  {
+    "word": "The",
+    "start": 20.537,
+    "end": 20.722
+  },
+  {
+    "word": "ten",
+    "start": 20.722,
+    "end": 20.907
+  },
+  {
+    "word": "crew",
+    "start": 20.907,
+    "end": 21.154
+  },
+  {
+    "word": "members",
+    "start": 21.154,
+    "end": 21.586
+  },
+  {
+    "word": "were",
+    "start": 21.586,
+    "end": 21.833
+  },
+  {
+    "word": "never",
+    "start": 21.833,
+    "end": 22.141
+  },
+  {
+    "word": "found,",
+    "start": 22.141,
+    "end": 22.573
+  },
+  {
+    "word": "and",
+    "start": 22.573,
+    "end": 22.758
+  },
+  {
+    "word": "theories",
+    "start": 22.758,
+    "end": 23.251
+  },
+  {
+    "word": "ranging",
+    "start": 23.251,
+    "end": 23.683
+  },
+  {
+    "word": "from",
+    "start": 23.683,
+    "end": 23.929
+  },
+  {
+    "word": "mutiny",
+    "start": 23.929,
+    "end": 24.299
+  },
+  {
+    "word": "to",
+    "start": 24.299,
+    "end": 24.423
+  },
+  {
+    "word": "piracy",
+    "start": 24.423,
+    "end": 24.793
+  },
+  {
+    "word": "remained",
+    "start": 24.793,
+    "end": 25.286
+  },
+  {
+    "word": "unproven.",
+    "start": 25.286,
+    "end": 26.088
+  }
+]

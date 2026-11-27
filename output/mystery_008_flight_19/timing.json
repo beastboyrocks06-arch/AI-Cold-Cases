@@ -1,0 +1,402 @@
+[
+  {
+    "word": "On",
+    "start": 0,
+    "end": 0.125
+  },
+  {
+    "word": "December",
+    "start": 0.125,
+    "end": 0.625
+  },
+  {
+    "word": "5,",
+    "start": 0.625,
+    "end": 0.874
+  },
+  {
+    "word": "1945,",
+    "start": 0.874,
+    "end": 1.249
+  },
+  {
+    "word": "five",
+    "start": 1.249,
+    "end": 1.499
+  },
+  {
+    "word": "Navy",
+    "start": 1.499,
+    "end": 1.749
+  },
+  {
+    "word": "bombers",
+    "start": 1.749,
+    "end": 2.186
+  },
+  {
+    "word": "took",
+    "start": 2.186,
+    "end": 2.436
+  },
+  {
+    "word": "off",
+    "start": 2.436,
+    "end": 2.623
+  },
+  {
+    "word": "from",
+    "start": 2.623,
+    "end": 2.873
+  },
+  {
+    "word": "Florida",
+    "start": 2.873,
+    "end": 3.31
+  },
+  {
+    "word": "for",
+    "start": 3.31,
+    "end": 3.497
+  },
+  {
+    "word": "a",
+    "start": 3.497,
+    "end": 3.622
+  },
+  {
+    "word": "routine",
+    "start": 3.622,
+    "end": 4.06
+  },
+  {
+    "word": "training",
+    "start": 4.06,
+    "end": 4.559
+  },
+  {
+    "word": "mission.",
+    "start": 4.559,
+    "end": 5.309
+  },
+  {
+    "word": "The",
+    "start": 5.309,
+    "end": 5.496
+  },
+  {
+    "word": "flight",
+    "start": 5.496,
+    "end": 5.871
+  },
+  {
+    "word": "leader",
+    "start": 5.871,
+    "end": 6.245
+  },
+  {
+    "word": "soon",
+    "start": 6.245,
+    "end": 6.495
+  },
+  {
+    "word": "reported",
+    "start": 6.495,
+    "end": 6.995
+  },
+  {
+    "word": "that",
+    "start": 6.995,
+    "end": 7.245
+  },
+  {
+    "word": "his",
+    "start": 7.245,
+    "end": 7.432
+  },
+  {
+    "word": "compasses",
+    "start": 7.432,
+    "end": 7.994
+  },
+  {
+    "word": "were",
+    "start": 7.994,
+    "end": 8.244
+  },
+  {
+    "word": "behaving",
+    "start": 8.244,
+    "end": 8.744
+  },
+  {
+    "word": "strangely",
+    "start": 8.744,
+    "end": 9.306
+  },
+  {
+    "word": "and",
+    "start": 9.306,
+    "end": 9.493
+  },
+  {
+    "word": "that",
+    "start": 9.493,
+    "end": 9.743
+  },
+  {
+    "word": "he",
+    "start": 9.743,
+    "end": 9.868
+  },
+  {
+    "word": "was",
+    "start": 9.868,
+    "end": 10.055
+  },
+  {
+    "word": "unsure",
+    "start": 10.055,
+    "end": 10.43
+  },
+  {
+    "word": "of",
+    "start": 10.43,
+    "end": 10.555
+  },
+  {
+    "word": "his",
+    "start": 10.555,
+    "end": 10.742
+  },
+  {
+    "word": "position.",
+    "start": 10.742,
+    "end": 11.554
+  },
+  {
+    "word": "Radio",
+    "start": 11.554,
+    "end": 11.866
+  },
+  {
+    "word": "operators",
+    "start": 11.866,
+    "end": 12.428
+  },
+  {
+    "word": "heard",
+    "start": 12.428,
+    "end": 12.741
+  },
+  {
+    "word": "confused",
+    "start": 12.741,
+    "end": 13.24
+  },
+  {
+    "word": "exchanges",
+    "start": 13.24,
+    "end": 13.802
+  },
+  {
+    "word": "as",
+    "start": 13.802,
+    "end": 13.927
+  },
+  {
+    "word": "the",
+    "start": 13.927,
+    "end": 14.115
+  },
+  {
+    "word": "pilots",
+    "start": 14.115,
+    "end": 14.489
+  },
+  {
+    "word": "struggled",
+    "start": 14.489,
+    "end": 15.051
+  },
+  {
+    "word": "to",
+    "start": 15.051,
+    "end": 15.176
+  },
+  {
+    "word": "identify",
+    "start": 15.176,
+    "end": 15.676
+  },
+  {
+    "word": "their",
+    "start": 15.676,
+    "end": 15.988
+  },
+  {
+    "word": "location.",
+    "start": 15.988,
+    "end": 16.8
+  },
+  {
+    "word": "The",
+    "start": 16.8,
+    "end": 16.987
+  },
+  {
+    "word": "aircraft",
+    "start": 16.987,
+    "end": 17.487
+  },
+  {
+    "word": "disappeared,",
+    "start": 17.487,
+    "end": 18.299
+  },
+  {
+    "word": "and",
+    "start": 18.299,
+    "end": 18.486
+  },
+  {
+    "word": "a",
+    "start": 18.486,
+    "end": 18.611
+  },
+  {
+    "word": "rescue",
+    "start": 18.611,
+    "end": 18.986
+  },
+  {
+    "word": "plane",
+    "start": 18.986,
+    "end": 19.298
+  },
+  {
+    "word": "sent",
+    "start": 19.298,
+    "end": 19.548
+  },
+  {
+    "word": "to",
+    "start": 19.548,
+    "end": 19.673
+  },
+  {
+    "word": "search",
+    "start": 19.673,
+    "end": 20.048
+  },
+  {
+    "word": "for",
+    "start": 20.048,
+    "end": 20.235
+  },
+  {
+    "word": "them",
+    "start": 20.235,
+    "end": 20.485
+  },
+  {
+    "word": "also",
+    "start": 20.485,
+    "end": 20.735
+  },
+  {
+    "word": "vanished.",
+    "start": 20.735,
+    "end": 21.547
+  },
+  {
+    "word": "No",
+    "start": 21.547,
+    "end": 21.672
+  },
+  {
+    "word": "confirmed",
+    "start": 21.672,
+    "end": 22.234
+  },
+  {
+    "word": "wreckage",
+    "start": 22.234,
+    "end": 22.733
+  },
+  {
+    "word": "of",
+    "start": 22.733,
+    "end": 22.858
+  },
+  {
+    "word": "the",
+    "start": 22.858,
+    "end": 23.046
+  },
+  {
+    "word": "five",
+    "start": 23.046,
+    "end": 23.295
+  },
+  {
+    "word": "bombers",
+    "start": 23.295,
+    "end": 23.732
+  },
+  {
+    "word": "has",
+    "start": 23.732,
+    "end": 23.92
+  },
+  {
+    "word": "been",
+    "start": 23.92,
+    "end": 24.17
+  },
+  {
+    "word": "identified,",
+    "start": 24.17,
+    "end": 24.919
+  },
+  {
+    "word": "and",
+    "start": 24.919,
+    "end": 25.106
+  },
+  {
+    "word": "the",
+    "start": 25.106,
+    "end": 25.294
+  },
+  {
+    "word": "exact",
+    "start": 25.294,
+    "end": 25.606
+  },
+  {
+    "word": "sequence",
+    "start": 25.606,
+    "end": 26.106
+  },
+  {
+    "word": "of",
+    "start": 26.106,
+    "end": 26.231
+  },
+  {
+    "word": "events",
+    "start": 26.231,
+    "end": 26.605
+  },
+  {
+    "word": "remains",
+    "start": 26.605,
+    "end": 27.043
+  },
+  {
+    "word": "debated.",
+    "start": 27.043,
+    "end": 27.792
+  }
+]
