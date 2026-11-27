@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "For decades, a strange buzzing sound has echoed across a shortwave radio frequency.",
       "image_prompt": "Vintage shortwave radio receiver glowing in a dark room, analog frequency dial, mysterious atmosphere, cinematic realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "Listeners know the signal by the nickname The Buzzer, often associated with the callsign UVB-76.",
       "image_prompt": "Close-up of a vintage radio tuning dial near a shortwave frequency, headphones on desk, moody documentary lighting, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "Most of the time, the transmission repeats a monotonous buzzing tone with little variation.",
       "image_prompt": "Old radio speaker and waveform-like sound visualization in a dim listening station, no readable text, cinematic realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "Occasionally, the buzz is interrupted by a voice reading names or groups of numbers.",
       "image_prompt": "Shadowy radio operator wearing headphones beside military-style communications equipment, shortwave radio room, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "Theories range from military communications to a channel kept active for unknown operational reasons, but its precise purpose is unconfirmed.",
       "image_prompt": "Remote radio antenna field beneath a cold overcast sky, isolated Russian landscape, atmospheric investigative documentary image, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }

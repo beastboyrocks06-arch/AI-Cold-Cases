@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "In January 1921, a huge sailing ship appeared stranded off the coast of North Carolina.",
       "image_prompt": "A five-masted 1920s wooden schooner stranded on dangerous Atlantic sandbars near Cape Hatteras, stormy sea, historical cinematic realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "The ship was the Carroll A. Deering, returning from a voyage to the Caribbean.",
       "image_prompt": "Historically accurate five-masted commercial schooner sailing across the Atlantic in 1921, overcast sky, documentary realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "A lightship crew had recently seen men aboard, including someone signaling that the vessel had lost its anchors.",
       "image_prompt": "1920s lightship beside a large schooner at sea, sailors signaling between vessels, historical maritime scene, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "When rescuers finally boarded, the Deering was deserted and its lifeboats were gone.",
       "image_prompt": "Coast Guard rescuers boarding an abandoned five-masted schooner in rough seas, empty deck, 1920s historical realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "The ten crew members were never found, and theories ranging from mutiny to piracy remained unproven.",
       "image_prompt": "Abandoned schooner fading into Atlantic sea fog at dusk, empty horizon, haunting historical mystery atmosphere, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }
