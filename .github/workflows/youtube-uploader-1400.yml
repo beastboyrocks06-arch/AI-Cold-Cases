@@ -3,7 +3,7 @@ name: YouTube Uploader (14:00 IST)
 
 on:
   schedule:
-    - cron: "30 8 * * *"
+    - cron: "0 14 * * *"
   workflow_dispatch:
 
 permissions:
