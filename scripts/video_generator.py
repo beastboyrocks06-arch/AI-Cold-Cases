@@ -25,7 +25,7 @@ MUSIC_VOLUME = 0.12
 VIDEO_CRF = 23
 VIDEO_PRESET = "medium"
 
-MAX_VIDEOS_PER_RUN = 1
+MAX_VIDEOS_PER_RUN = 3
 
 MUSIC_EXTENSIONS = {
     ".mp3", ".wav", ".m4a", ".aac", ".ogg", ".flac"
