@@ -1,0 +1,550 @@
+{
+  "video_id": "mystery_007_carroll_deering",
+  "width": 1080,
+  "height": 1920,
+  "style_name": "yellow_bold_large",
+  "font": {
+    "filename": "dejavu-sans-bold.ttf",
+    "path": "/home/runner/work/AI-Cold-Cases/AI-Cold-Cases/fonts/dejavu-sans-bold.ttf"
+  },
+  "style": {
+    "font_size": 94,
+    "font_color": "#FFD21F",
+    "outline_color": "#000000",
+    "outline_width": 7,
+    "shadow": 3,
+    "bold": true,
+    "italic": true,
+    "position": "center"
+  },
+  "caption_count": 21,
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.048,
+      "text": "IN JANUARY 1921, A",
+      "words": [
+        {
+          "text": "In",
+          "start": 0.0,
+          "end": 0.123
+        },
+        {
+          "text": "January",
+          "start": 0.123,
+          "end": 0.555
+        },
+        {
+          "text": "1921,",
+          "start": 0.555,
+          "end": 0.925
+        },
+        {
+          "text": "a",
+          "start": 0.925,
+          "end": 1.048
+        }
+      ]
+    },
+    {
+      "start": 1.048,
+      "end": 2.467,
+      "text": "HUGE SAILING SHIP APPEARED",
+      "words": [
+        {
+          "text": "huge",
+          "start": 1.048,
+          "end": 1.295
+        },
+        {
+          "text": "sailing",
+          "start": 1.295,
+          "end": 1.727
+        },
+        {
+          "text": "ship",
+          "start": 1.727,
+          "end": 1.974
+        },
+        {
+          "text": "appeared",
+          "start": 1.974,
+          "end": 2.467
+        }
+      ]
+    },
+    {
+      "start": 2.467,
+      "end": 3.639,
+      "text": "STRANDED OFF THE COAST",
+      "words": [
+        {
+          "text": "stranded",
+          "start": 2.467,
+          "end": 2.96
+        },
+        {
+          "text": "off",
+          "start": 2.96,
+          "end": 3.145
+        },
+        {
+          "text": "the",
+          "start": 3.145,
+          "end": 3.33
+        },
+        {
+          "text": "coast",
+          "start": 3.33,
+          "end": 3.639
+        }
+      ]
+    },
+    {
+      "start": 3.639,
+      "end": 4.872,
+      "text": "OF NORTH CAROLINA.",
+      "words": [
+        {
+          "text": "of",
+          "start": 3.639,
+          "end": 3.762
+        },
+        {
+          "text": "North",
+          "start": 3.762,
+          "end": 4.07
+        },
+        {
+          "text": "Carolina.",
+          "start": 4.07,
+          "end": 4.872
+        }
+      ]
+    },
+    {
+      "start": 4.872,
+      "end": 5.674,
+      "text": "THE SHIP WAS THE",
+      "words": [
+        {
+          "text": "The",
+          "start": 4.872,
+          "end": 5.057
+        },
+        {
+          "text": "ship",
+          "start": 5.057,
+          "end": 5.304
+        },
+        {
+          "text": "was",
+          "start": 5.304,
+          "end": 5.489
+        },
+        {
+          "text": "the",
+          "start": 5.489,
+          "end": 5.674
+        }
+      ]
+    },
+    {
+      "start": 5.674,
+      "end": 6.537,
+      "text": "CARROLL A.",
+      "words": [
+        {
+          "text": "Carroll",
+          "start": 5.674,
+          "end": 6.106
+        },
+        {
+          "text": "A.",
+          "start": 6.106,
+          "end": 6.537
+        }
+      ]
+    },
+    {
+      "start": 6.537,
+      "end": 8.018,
+      "text": "DEERING, RETURNING FROM A",
+      "words": [
+        {
+          "text": "Deering,",
+          "start": 6.537,
+          "end": 7.092
+        },
+        {
+          "text": "returning",
+          "start": 7.092,
+          "end": 7.648
+        },
+        {
+          "text": "from",
+          "start": 7.648,
+          "end": 7.894
+        },
+        {
+          "text": "a",
+          "start": 7.894,
+          "end": 8.018
+        }
+      ]
+    },
+    {
+      "start": 8.018,
+      "end": 9.559,
+      "text": "VOYAGE TO THE CARIBBEAN.",
+      "words": [
+        {
+          "text": "voyage",
+          "start": 8.018,
+          "end": 8.388
+        },
+        {
+          "text": "to",
+          "start": 8.388,
+          "end": 8.511
+        },
+        {
+          "text": "the",
+          "start": 8.511,
+          "end": 8.696
+        },
+        {
+          "text": "Caribbean.",
+          "start": 8.696,
+          "end": 9.559
+        }
+      ]
+    },
+    {
+      "start": 9.559,
+      "end": 10.67,
+      "text": "A LIGHTSHIP CREW HAD",
+      "words": [
+        {
+          "text": "A",
+          "start": 9.559,
+          "end": 9.683
+        },
+        {
+          "text": "lightship",
+          "start": 9.683,
+          "end": 10.238
+        },
+        {
+          "text": "crew",
+          "start": 10.238,
+          "end": 10.485
+        },
+        {
+          "text": "had",
+          "start": 10.485,
+          "end": 10.67
+        }
+      ]
+    },
+    {
+      "start": 10.67,
+      "end": 12.088,
+      "text": "RECENTLY SEEN MEN ABOARD,",
+      "words": [
+        {
+          "text": "recently",
+          "start": 10.67,
+          "end": 11.163
+        },
+        {
+          "text": "seen",
+          "start": 11.163,
+          "end": 11.41
+        },
+        {
+          "text": "men",
+          "start": 11.41,
+          "end": 11.595
+        },
+        {
+          "text": "aboard,",
+          "start": 11.595,
+          "end": 12.088
+        }
+      ]
+    },
+    {
+      "start": 12.088,
+      "end": 13.877,
+      "text": "INCLUDING SOMEONE SIGNALING THAT",
+      "words": [
+        {
+          "text": "including",
+          "start": 12.088,
+          "end": 12.643
+        },
+        {
+          "text": "someone",
+          "start": 12.643,
+          "end": 13.075
+        },
+        {
+          "text": "signaling",
+          "start": 13.075,
+          "end": 13.63
+        },
+        {
+          "text": "that",
+          "start": 13.63,
+          "end": 13.877
+        }
+      ]
+    },
+    {
+      "start": 13.877,
+      "end": 14.863,
+      "text": "THE VESSEL HAD LOST",
+      "words": [
+        {
+          "text": "the",
+          "start": 13.877,
+          "end": 14.062
+        },
+        {
+          "text": "vessel",
+          "start": 14.062,
+          "end": 14.432
+        },
+        {
+          "text": "had",
+          "start": 14.432,
+          "end": 14.617
+        },
+        {
+          "text": "lost",
+          "start": 14.617,
+          "end": 14.863
+        }
+      ]
+    },
+    {
+      "start": 14.863,
+      "end": 15.788,
+      "text": "ITS ANCHORS.",
+      "words": [
+        {
+          "text": "its",
+          "start": 14.863,
+          "end": 15.048
+        },
+        {
+          "text": "anchors.",
+          "start": 15.048,
+          "end": 15.788
+        }
+      ]
+    },
+    {
+      "start": 15.788,
+      "end": 17.515,
+      "text": "WHEN RESCUERS FINALLY BOARDED,",
+      "words": [
+        {
+          "text": "When",
+          "start": 15.788,
+          "end": 16.035
+        },
+        {
+          "text": "rescuers",
+          "start": 16.035,
+          "end": 16.529
+        },
+        {
+          "text": "finally",
+          "start": 16.529,
+          "end": 16.96
+        },
+        {
+          "text": "boarded,",
+          "start": 16.96,
+          "end": 17.515
+        }
+      ]
+    },
+    {
+      "start": 17.515,
+      "end": 18.81,
+      "text": "THE DEERING WAS DESERTED",
+      "words": [
+        {
+          "text": "the",
+          "start": 17.515,
+          "end": 17.7
+        },
+        {
+          "text": "Deering",
+          "start": 17.7,
+          "end": 18.132
+        },
+        {
+          "text": "was",
+          "start": 18.132,
+          "end": 18.317
+        },
+        {
+          "text": "deserted",
+          "start": 18.317,
+          "end": 18.81
+        }
+      ]
+    },
+    {
+      "start": 18.81,
+      "end": 19.982,
+      "text": "AND ITS LIFEBOATS WERE",
+      "words": [
+        {
+          "text": "and",
+          "start": 18.81,
+          "end": 18.996
+        },
+        {
+          "text": "its",
+          "start": 18.996,
+          "end": 19.181
+        },
+        {
+          "text": "lifeboats",
+          "start": 19.181,
+          "end": 19.736
+        },
+        {
+          "text": "were",
+          "start": 19.736,
+          "end": 19.982
+        }
+      ]
+    },
+    {
+      "start": 19.982,
+      "end": 20.537,
+      "text": "GONE.",
+      "words": [
+        {
+          "text": "gone.",
+          "start": 19.982,
+          "end": 20.537
+        }
+      ]
+    },
+    {
+      "start": 20.537,
+      "end": 21.586,
+      "text": "THE TEN CREW MEMBERS",
+      "words": [
+        {
+          "text": "The",
+          "start": 20.537,
+          "end": 20.722
+        },
+        {
+          "text": "ten",
+          "start": 20.722,
+          "end": 20.907
+        },
+        {
+          "text": "crew",
+          "start": 20.907,
+          "end": 21.154
+        },
+        {
+          "text": "members",
+          "start": 21.154,
+          "end": 21.586
+        }
+      ]
+    },
+    {
+      "start": 21.586,
+      "end": 22.758,
+      "text": "WERE NEVER FOUND, AND",
+      "words": [
+        {
+          "text": "were",
+          "start": 21.586,
+          "end": 21.833
+        },
+        {
+          "text": "never",
+          "start": 21.833,
+          "end": 22.141
+        },
+        {
+          "text": "found,",
+          "start": 22.141,
+          "end": 22.573
+        },
+        {
+          "text": "and",
+          "start": 22.573,
+          "end": 22.758
+        }
+      ]
+    },
+    {
+      "start": 22.758,
+      "end": 24.299,
+      "text": "THEORIES RANGING FROM MUTINY",
+      "words": [
+        {
+          "text": "theories",
+          "start": 22.758,
+          "end": 23.251
+        },
+        {
+          "text": "ranging",
+          "start": 23.251,
+          "end": 23.683
+        },
+        {
+          "text": "from",
+          "start": 23.683,
+          "end": 23.929
+        },
+        {
+          "text": "mutiny",
+          "start": 23.929,
+          "end": 24.299
+        }
+      ]
+    },
+    {
+      "start": 24.299,
+      "end": 26.088,
+      "text": "TO PIRACY REMAINED UNPROVEN.",
+      "words": [
+        {
+          "text": "to",
+          "start": 24.299,
+          "end": 24.423
+        },
+        {
+          "text": "piracy",
+          "start": 24.423,
+          "end": 24.793
+        },
+        {
+          "text": "remained",
+          "start": 24.793,
+          "end": 25.286
+        },
+        {
+          "text": "unproven.",
+          "start": 25.286,
+          "end": 26.088
+        }
+      ]
+    }
+  ]
+}
