@@ -1,0 +1,392 @@
+[
+  {
+    "word": "In",
+    "start": 0,
+    "end": 0.123
+  },
+  {
+    "word": "1922,",
+    "start": 0.123,
+    "end": 0.493
+  },
+  {
+    "word": "a",
+    "start": 0.493,
+    "end": 0.616
+  },
+  {
+    "word": "remote",
+    "start": 0.616,
+    "end": 0.985
+  },
+  {
+    "word": "farm",
+    "start": 0.985,
+    "end": 1.232
+  },
+  {
+    "word": "in",
+    "start": 1.232,
+    "end": 1.355
+  },
+  {
+    "word": "Bavaria",
+    "start": 1.355,
+    "end": 1.786
+  },
+  {
+    "word": "became",
+    "start": 1.786,
+    "end": 2.155
+  },
+  {
+    "word": "the",
+    "start": 2.155,
+    "end": 2.34
+  },
+  {
+    "word": "scene",
+    "start": 2.34,
+    "end": 2.648
+  },
+  {
+    "word": "of",
+    "start": 2.648,
+    "end": 2.771
+  },
+  {
+    "word": "one",
+    "start": 2.771,
+    "end": 2.956
+  },
+  {
+    "word": "of",
+    "start": 2.956,
+    "end": 3.079
+  },
+  {
+    "word": "Germany's",
+    "start": 3.079,
+    "end": 3.572
+  },
+  {
+    "word": "most",
+    "start": 3.572,
+    "end": 3.818
+  },
+  {
+    "word": "disturbing",
+    "start": 3.818,
+    "end": 4.434
+  },
+  {
+    "word": "unsolved",
+    "start": 4.434,
+    "end": 4.926
+  },
+  {
+    "word": "crimes.",
+    "start": 4.926,
+    "end": 5.604
+  },
+  {
+    "word": "Before",
+    "start": 5.604,
+    "end": 5.973
+  },
+  {
+    "word": "the",
+    "start": 5.973,
+    "end": 6.158
+  },
+  {
+    "word": "murders,",
+    "start": 6.158,
+    "end": 6.712
+  },
+  {
+    "word": "the",
+    "start": 6.712,
+    "end": 6.897
+  },
+  {
+    "word": "family",
+    "start": 6.897,
+    "end": 7.266
+  },
+  {
+    "word": "reportedly",
+    "start": 7.266,
+    "end": 7.882
+  },
+  {
+    "word": "noticed",
+    "start": 7.882,
+    "end": 8.313
+  },
+  {
+    "word": "strange",
+    "start": 8.313,
+    "end": 8.744
+  },
+  {
+    "word": "footprints",
+    "start": 8.744,
+    "end": 9.36
+  },
+  {
+    "word": "leading",
+    "start": 9.36,
+    "end": 9.791
+  },
+  {
+    "word": "toward",
+    "start": 9.791,
+    "end": 10.161
+  },
+  {
+    "word": "the",
+    "start": 10.161,
+    "end": 10.345
+  },
+  {
+    "word": "house",
+    "start": 10.345,
+    "end": 10.653
+  },
+  {
+    "word": "but",
+    "start": 10.653,
+    "end": 10.838
+  },
+  {
+    "word": "none",
+    "start": 10.838,
+    "end": 11.084
+  },
+  {
+    "word": "leading",
+    "start": 11.084,
+    "end": 11.515
+  },
+  {
+    "word": "away.",
+    "start": 11.515,
+    "end": 12.07
+  },
+  {
+    "word": "They",
+    "start": 12.07,
+    "end": 12.316
+  },
+  {
+    "word": "also",
+    "start": 12.316,
+    "end": 12.562
+  },
+  {
+    "word": "reported",
+    "start": 12.562,
+    "end": 13.055
+  },
+  {
+    "word": "unexplained",
+    "start": 13.055,
+    "end": 13.732
+  },
+  {
+    "word": "noises",
+    "start": 13.732,
+    "end": 14.102
+  },
+  {
+    "word": "in",
+    "start": 14.102,
+    "end": 14.225
+  },
+  {
+    "word": "the",
+    "start": 14.225,
+    "end": 14.41
+  },
+  {
+    "word": "attic",
+    "start": 14.41,
+    "end": 14.718
+  },
+  {
+    "word": "and",
+    "start": 14.718,
+    "end": 14.902
+  },
+  {
+    "word": "a",
+    "start": 14.902,
+    "end": 15.025
+  },
+  {
+    "word": "missing",
+    "start": 15.025,
+    "end": 15.456
+  },
+  {
+    "word": "set",
+    "start": 15.456,
+    "end": 15.641
+  },
+  {
+    "word": "of",
+    "start": 15.641,
+    "end": 15.764
+  },
+  {
+    "word": "keys.",
+    "start": 15.764,
+    "end": 16.319
+  },
+  {
+    "word": "Six",
+    "start": 16.319,
+    "end": 16.503
+  },
+  {
+    "word": "people",
+    "start": 16.503,
+    "end": 16.873
+  },
+  {
+    "word": "were",
+    "start": 16.873,
+    "end": 17.119
+  },
+  {
+    "word": "killed,",
+    "start": 17.119,
+    "end": 17.612
+  },
+  {
+    "word": "including",
+    "start": 17.612,
+    "end": 18.166
+  },
+  {
+    "word": "members",
+    "start": 18.166,
+    "end": 18.597
+  },
+  {
+    "word": "of",
+    "start": 18.597,
+    "end": 18.72
+  },
+  {
+    "word": "the",
+    "start": 18.72,
+    "end": 18.905
+  },
+  {
+    "word": "family",
+    "start": 18.905,
+    "end": 19.274
+  },
+  {
+    "word": "and",
+    "start": 19.274,
+    "end": 19.459
+  },
+  {
+    "word": "their",
+    "start": 19.459,
+    "end": 19.767
+  },
+  {
+    "word": "young",
+    "start": 19.767,
+    "end": 20.075
+  },
+  {
+    "word": "maid.",
+    "start": 20.075,
+    "end": 20.629
+  },
+  {
+    "word": "Investigators",
+    "start": 20.629,
+    "end": 21.43
+  },
+  {
+    "word": "never",
+    "start": 21.43,
+    "end": 21.738
+  },
+  {
+    "word": "identified",
+    "start": 21.738,
+    "end": 22.353
+  },
+  {
+    "word": "the",
+    "start": 22.353,
+    "end": 22.538
+  },
+  {
+    "word": "killer,",
+    "start": 22.538,
+    "end": 23.031
+  },
+  {
+    "word": "and",
+    "start": 23.031,
+    "end": 23.216
+  },
+  {
+    "word": "the",
+    "start": 23.216,
+    "end": 23.4
+  },
+  {
+    "word": "farm's",
+    "start": 23.4,
+    "end": 23.708
+  },
+  {
+    "word": "isolation",
+    "start": 23.708,
+    "end": 24.262
+  },
+  {
+    "word": "left",
+    "start": 24.262,
+    "end": 24.509
+  },
+  {
+    "word": "questions",
+    "start": 24.509,
+    "end": 25.063
+  },
+  {
+    "word": "that",
+    "start": 25.063,
+    "end": 25.309
+  },
+  {
+    "word": "still",
+    "start": 25.309,
+    "end": 25.617
+  },
+  {
+    "word": "haunt",
+    "start": 25.617,
+    "end": 25.925
+  },
+  {
+    "word": "the",
+    "start": 25.925,
+    "end": 26.11
+  },
+  {
+    "word": "case.",
+    "start": 26.11,
+    "end": 26.664
+  }
+]
