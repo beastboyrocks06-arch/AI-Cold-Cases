@@ -25,7 +25,7 @@ SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
 
 PRIVACY_STATUS = os.getenv("YOUTUBE_PRIVACY_STATUS", "public")
 CHUNK_SIZE = 8 * 1024 * 1024
-MAX_UPLOADS_PER_RUN = 3
+MAX_UPLOADS_PER_RUN = 1
 
 CATEGORY_IDS = {
     "film": "1",
