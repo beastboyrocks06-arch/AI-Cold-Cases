@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "On Christmas Eve 1945, a fire destroyed the Sodder family home in West Virginia.",
       "image_prompt": "1945 rural West Virginia family home at night with flames visible from outside, snow-covered yard, respectful historical reenactment, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "When the fire was over, five of the family's children could not be found.",
       "image_prompt": "Burned remains of a 1940s family house at dawn, anxious parents and neighbors in the foreground, non-graphic documentary realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "The family questioned how the fire could have consumed the house so completely without clear remains being recovered.",
       "image_prompt": "1940s investigators examining the charred foundation of a family home, winter landscape, historical crime scene, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "Reports about sightings and a possible kidnapping emerged, but none conclusively established what happened.",
       "image_prompt": "1940s roadside diner window with a family photograph and distant passing car, moody historical mystery scene, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "The Sodders spent years searching for answers, but the children's fate was never definitively established.",
       "image_prompt": "Older parents standing beside a weathered roadside billboard with a family photograph, 1950s West Virginia, emotional documentary realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }

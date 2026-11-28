@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "In December 1948, a neatly dressed man was found dead on Somerton Beach in Australia.",
       "image_prompt": "Empty Somerton Beach near Adelaide at dawn in 1948, distant figure in formal clothing, historical crime documentary style, non-graphic, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "He carried no identification, and the labels had been removed from much of his clothing.",
       "image_prompt": "1940s investigator examining a folded suit, shoes and personal effects on a table, period accurate forensic scene, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "A tiny scrap of paper reading Tamam Shud was discovered hidden in a pocket.",
       "image_prompt": "Close-up of a small aged paper scrap beside a 1940s pocket and magnifying glass, no extra readable writing, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "A telephone number and an apparently encrypted set of letters added to the mystery.",
       "image_prompt": "1940s detective desk with handwritten code notes, old telephone and magnifying glass, cinematic historical realism, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "Modern DNA research identified the man as Carl Webb, though questions about his final hours remain.",
       "image_prompt": "Somerton Beach at sunset with waves washing over the sand, solitary empty shoreline, reflective historical mystery atmosphere, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }

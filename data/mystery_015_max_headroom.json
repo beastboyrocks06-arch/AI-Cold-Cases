@@ -14,35 +14,35 @@
       "scene_id": 1,
       "narration": "On November 22, 1987, Chicago television viewers saw something they were never supposed to see.",
       "image_prompt": "1980s living room with bulky CRT television showing sudden broadcast interference, family watching in surprise, period accurate, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 2,
       "narration": "A masked figure appeared during an interruption of a local news broadcast.",
       "image_prompt": "Distorted television screen showing a person wearing a rigid Max Headroom-style mask, analog static, 1980s broadcast aesthetic, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 3,
       "narration": "The intruder delivered a strange series of comments and bizarre gestures before the signal returned.",
       "image_prompt": "Close-up of a masked performer in front of a rotating metal-panel backdrop, low-quality 1980s television image aesthetic, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 4,
       "narration": "Later that night, the signal hijacking happened again during another Chicago broadcast.",
       "image_prompt": "1980s television control room with engineers watching monitors and adjusting broadcast equipment, tense atmosphere, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     },
     {
       "scene_id": 5,
       "narration": "Authorities investigated, but the identity of the broadcaster has never been conclusively revealed.",
       "image_prompt": "Empty 1980s television transmission room filled with analog equipment and glowing monitors, mysterious documentary mood, vertical 9:16 composition, no text, no watermark",
-      "image_generated": false
+      "image_generated": true
     }
   ],
   "voiceover_generated": false,
-  "slides_generated": false,
+  "slides_generated": true,
   "video_generated": false,
   "uploaded": false
 }
