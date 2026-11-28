@@ -44,6 +44,9 @@
   "voiceover_generated": true,
   "slides_generated": true,
   "video_generated": true,
-  "uploaded": false,
-  "captions_generated": true
+  "uploaded": true,
+  "captions_generated": true,
+  "youtube_id": "js_rRvuoIkM",
+  "video_url": "https://www.youtube.com/watch?v=js_rRvuoIkM",
+  "uploaded_at": "2026-11-28T12:13:05.634082+00:00"
 }
