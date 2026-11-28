@@ -1,0 +1,351 @@
+{
+  "video_id": "mystery_005_flannan_isles",
+  "width": 1080,
+  "height": 1920,
+  "style_name": "yellow_bold_large",
+  "font": {
+    "filename": "dejavu-sans-bold.ttf",
+    "path": "/home/runner/work/AI-Cold-Cases/AI-Cold-Cases/fonts/dejavu-sans-bold.ttf"
+  },
+  "style": {
+    "font_size": 94,
+    "font_color": "#FFD21F",
+    "outline_color": "#000000",
+    "outline_width": 7,
+    "shadow": 3,
+    "bold": true,
+    "italic": true,
+    "position": "center"
+  },
+  "caption_count": 14,
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 1.787,
+      "text": "THREE LIGHTHOUSE KEEPERS VANISHED",
+      "words": [
+        {
+          "text": "Three",
+          "start": 0.0,
+          "end": 0.298
+        },
+        {
+          "text": "lighthouse",
+          "start": 0.298,
+          "end": 0.893
+        },
+        {
+          "text": "keepers",
+          "start": 0.893,
+          "end": 1.31
+        },
+        {
+          "text": "vanished",
+          "start": 1.31,
+          "end": 1.787
+        }
+      ]
+    },
+    {
+      "start": 1.787,
+      "end": 2.978,
+      "text": "FROM A REMOTE SCOTTISH",
+      "words": [
+        {
+          "text": "from",
+          "start": 1.787,
+          "end": 2.025
+        },
+        {
+          "text": "a",
+          "start": 2.025,
+          "end": 2.144
+        },
+        {
+          "text": "remote",
+          "start": 2.144,
+          "end": 2.501
+        },
+        {
+          "text": "Scottish",
+          "start": 2.501,
+          "end": 2.978
+        }
+      ]
+    },
+    {
+      "start": 2.978,
+      "end": 3.633,
+      "text": "ISLAND.",
+      "words": [
+        {
+          "text": "island.",
+          "start": 2.978,
+          "end": 3.633
+        }
+      ]
+    },
+    {
+      "start": 3.633,
+      "end": 4.764,
+      "text": "A RELIEF SHIP ARRIVED",
+      "words": [
+        {
+          "text": "A",
+          "start": 3.633,
+          "end": 3.752
+        },
+        {
+          "text": "relief",
+          "start": 3.752,
+          "end": 4.109
+        },
+        {
+          "text": "ship",
+          "start": 4.109,
+          "end": 4.347
+        },
+        {
+          "text": "arrived",
+          "start": 4.347,
+          "end": 4.764
+        }
+      ]
+    },
+    {
+      "start": 4.764,
+      "end": 5.836,
+      "text": "AND FOUND THE STATION",
+      "words": [
+        {
+          "text": "and",
+          "start": 4.764,
+          "end": 4.943
+        },
+        {
+          "text": "found",
+          "start": 4.943,
+          "end": 5.241
+        },
+        {
+          "text": "the",
+          "start": 5.241,
+          "end": 5.419
+        },
+        {
+          "text": "station",
+          "start": 5.419,
+          "end": 5.836
+        }
+      ]
+    },
+    {
+      "start": 5.836,
+      "end": 7.027,
+      "text": "COMPLETELY EMPTY.",
+      "words": [
+        {
+          "text": "completely",
+          "start": 5.836,
+          "end": 6.432
+        },
+        {
+          "text": "empty.",
+          "start": 6.432,
+          "end": 7.027
+        }
+      ]
+    },
+    {
+      "start": 7.027,
+      "end": 8.337,
+      "text": "THE LAMPS WERE PREPARED,",
+      "words": [
+        {
+          "text": "The",
+          "start": 7.027,
+          "end": 7.206
+        },
+        {
+          "text": "lamps",
+          "start": 7.206,
+          "end": 7.504
+        },
+        {
+          "text": "were",
+          "start": 7.504,
+          "end": 7.742
+        },
+        {
+          "text": "prepared,",
+          "start": 7.742,
+          "end": 8.337
+        }
+      ]
+    },
+    {
+      "start": 8.337,
+      "end": 9.35,
+      "text": "BUT THE KEEPERS WERE",
+      "words": [
+        {
+          "text": "but",
+          "start": 8.337,
+          "end": 8.516
+        },
+        {
+          "text": "the",
+          "start": 8.516,
+          "end": 8.695
+        },
+        {
+          "text": "keepers",
+          "start": 8.695,
+          "end": 9.111
+        },
+        {
+          "text": "were",
+          "start": 9.111,
+          "end": 9.35
+        }
+      ]
+    },
+    {
+      "start": 9.35,
+      "end": 10.064,
+      "text": "NOWHERE.",
+      "words": [
+        {
+          "text": "nowhere.",
+          "start": 9.35,
+          "end": 10.064
+        }
+      ]
+    },
+    {
+      "start": 10.064,
+      "end": 11.017,
+      "text": "ONE SET OF OILSKINS",
+      "words": [
+        {
+          "text": "One",
+          "start": 10.064,
+          "end": 10.243
+        },
+        {
+          "text": "set",
+          "start": 10.243,
+          "end": 10.422
+        },
+        {
+          "text": "of",
+          "start": 10.422,
+          "end": 10.541
+        },
+        {
+          "text": "oilskins",
+          "start": 10.541,
+          "end": 11.017
+        }
+      ]
+    },
+    {
+      "start": 11.017,
+      "end": 12.685,
+      "text": "WAS REPORTEDLY LEFT BEHIND.",
+      "words": [
+        {
+          "text": "was",
+          "start": 11.017,
+          "end": 11.196
+        },
+        {
+          "text": "reportedly",
+          "start": 11.196,
+          "end": 11.791
+        },
+        {
+          "text": "left",
+          "start": 11.791,
+          "end": 12.03
+        },
+        {
+          "text": "behind.",
+          "start": 12.03,
+          "end": 12.685
+        }
+      ]
+    },
+    {
+      "start": 12.685,
+      "end": 13.637,
+      "text": "THE SEA MAY EXPLAIN",
+      "words": [
+        {
+          "text": "The",
+          "start": 12.685,
+          "end": 12.863
+        },
+        {
+          "text": "sea",
+          "start": 12.863,
+          "end": 13.042
+        },
+        {
+          "text": "may",
+          "start": 13.042,
+          "end": 13.221
+        },
+        {
+          "text": "explain",
+          "start": 13.221,
+          "end": 13.637
+        }
+      ]
+    },
+    {
+      "start": 13.637,
+      "end": 14.948,
+      "text": "IT, BUT NOBODY WITNESSED",
+      "words": [
+        {
+          "text": "it,",
+          "start": 13.637,
+          "end": 13.876
+        },
+        {
+          "text": "but",
+          "start": 13.876,
+          "end": 14.054
+        },
+        {
+          "text": "nobody",
+          "start": 14.054,
+          "end": 14.412
+        },
+        {
+          "text": "witnessed",
+          "start": 14.412,
+          "end": 14.948
+        }
+      ]
+    },
+    {
+      "start": 14.948,
+      "end": 15.96,
+      "text": "WHAT HAPPENED.",
+      "words": [
+        {
+          "text": "what",
+          "start": 14.948,
+          "end": 15.186
+        },
+        {
+          "text": "happened.",
+          "start": 15.186,
+          "end": 15.96
+        }
+      ]
+    }
+  ]
+}

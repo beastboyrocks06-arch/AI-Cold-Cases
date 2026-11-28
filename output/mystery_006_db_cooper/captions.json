@@ -1,0 +1,349 @@
+{
+  "video_id": "mystery_006_db_cooper",
+  "width": 1080,
+  "height": 1920,
+  "style_name": "yellow_bold",
+  "font": {
+    "filename": "dejavu-sans-bold.ttf",
+    "path": "/home/runner/work/AI-Cold-Cases/AI-Cold-Cases/fonts/dejavu-sans-bold.ttf"
+  },
+  "style": {
+    "font_size": 86,
+    "font_color": "#FFD21F",
+    "outline_color": "#000000",
+    "outline_width": 6,
+    "shadow": 3,
+    "bold": true,
+    "italic": true,
+    "position": "center"
+  },
+  "caption_count": 13,
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 0.978,
+      "text": "IN 1971, A QUIET",
+      "words": [
+        {
+          "text": "In",
+          "start": 0.0,
+          "end": 0.13
+        },
+        {
+          "text": "1971,",
+          "start": 0.13,
+          "end": 0.522
+        },
+        {
+          "text": "a",
+          "start": 0.522,
+          "end": 0.652
+        },
+        {
+          "text": "quiet",
+          "start": 0.652,
+          "end": 0.978
+        }
+      ]
+    },
+    {
+      "start": 0.978,
+      "end": 2.543,
+      "text": "PASSENGER HIJACKED A PLANE",
+      "words": [
+        {
+          "text": "passenger",
+          "start": 0.978,
+          "end": 1.565
+        },
+        {
+          "text": "hijacked",
+          "start": 1.565,
+          "end": 2.086
+        },
+        {
+          "text": "a",
+          "start": 2.086,
+          "end": 2.217
+        },
+        {
+          "text": "plane",
+          "start": 2.217,
+          "end": 2.543
+        }
+      ]
+    },
+    {
+      "start": 2.543,
+      "end": 3.847,
+      "text": "WITH A BRIEFCASE.",
+      "words": [
+        {
+          "text": "with",
+          "start": 2.543,
+          "end": 2.803
+        },
+        {
+          "text": "a",
+          "start": 2.803,
+          "end": 2.934
+        },
+        {
+          "text": "briefcase.",
+          "start": 2.934,
+          "end": 3.847
+        }
+      ]
+    },
+    {
+      "start": 3.847,
+      "end": 5.216,
+      "text": "HE DEMANDED RANSOM MONEY",
+      "words": [
+        {
+          "text": "He",
+          "start": 3.847,
+          "end": 3.977
+        },
+        {
+          "text": "demanded",
+          "start": 3.977,
+          "end": 4.499
+        },
+        {
+          "text": "ransom",
+          "start": 4.499,
+          "end": 4.89
+        },
+        {
+          "text": "money",
+          "start": 4.89,
+          "end": 5.216
+        }
+      ]
+    },
+    {
+      "start": 5.216,
+      "end": 6.65,
+      "text": "AND FOUR PARACHUTES.",
+      "words": [
+        {
+          "text": "and",
+          "start": 5.216,
+          "end": 5.411
+        },
+        {
+          "text": "four",
+          "start": 5.411,
+          "end": 5.672
+        },
+        {
+          "text": "parachutes.",
+          "start": 5.672,
+          "end": 6.65
+        }
+      ]
+    },
+    {
+      "start": 6.65,
+      "end": 8.084,
+      "text": "AFTER TAKEOFF, HE OPENED",
+      "words": [
+        {
+          "text": "After",
+          "start": 6.65,
+          "end": 6.976
+        },
+        {
+          "text": "takeoff,",
+          "start": 6.976,
+          "end": 7.563
+        },
+        {
+          "text": "he",
+          "start": 7.563,
+          "end": 7.693
+        },
+        {
+          "text": "opened",
+          "start": 7.693,
+          "end": 8.084
+        }
+      ]
+    },
+    {
+      "start": 8.084,
+      "end": 9.845,
+      "text": "THE REAR STAIRS MID-FLIGHT.",
+      "words": [
+        {
+          "text": "the",
+          "start": 8.084,
+          "end": 8.28
+        },
+        {
+          "text": "rear",
+          "start": 8.28,
+          "end": 8.541
+        },
+        {
+          "text": "stairs",
+          "start": 8.541,
+          "end": 8.932
+        },
+        {
+          "text": "mid-flight.",
+          "start": 8.932,
+          "end": 9.845
+        }
+      ]
+    },
+    {
+      "start": 9.845,
+      "end": 10.888,
+      "text": "THEN HE JUMPED INTO",
+      "words": [
+        {
+          "text": "Then",
+          "start": 9.845,
+          "end": 10.106
+        },
+        {
+          "text": "he",
+          "start": 10.106,
+          "end": 10.236
+        },
+        {
+          "text": "jumped",
+          "start": 10.236,
+          "end": 10.627
+        },
+        {
+          "text": "into",
+          "start": 10.627,
+          "end": 10.888
+        }
+      ]
+    },
+    {
+      "start": 10.888,
+      "end": 12.127,
+      "text": "A STORM WITH MILLIONS",
+      "words": [
+        {
+          "text": "a",
+          "start": 10.888,
+          "end": 11.018
+        },
+        {
+          "text": "storm",
+          "start": 11.018,
+          "end": 11.344
+        },
+        {
+          "text": "with",
+          "start": 11.344,
+          "end": 11.605
+        },
+        {
+          "text": "millions",
+          "start": 11.605,
+          "end": 12.127
+        }
+      ]
+    },
+    {
+      "start": 12.127,
+      "end": 13.431,
+      "text": "WATCHING NOWHERE.",
+      "words": [
+        {
+          "text": "watching",
+          "start": 12.127,
+          "end": 12.648
+        },
+        {
+          "text": "nowhere.",
+          "start": 12.648,
+          "end": 13.431
+        }
+      ]
+    },
+    {
+      "start": 13.431,
+      "end": 14.539,
+      "text": "NEITHER HIS BODY NOR",
+      "words": [
+        {
+          "text": "Neither",
+          "start": 13.431,
+          "end": 13.887
+        },
+        {
+          "text": "his",
+          "start": 13.887,
+          "end": 14.083
+        },
+        {
+          "text": "body",
+          "start": 14.083,
+          "end": 14.343
+        },
+        {
+          "text": "nor",
+          "start": 14.343,
+          "end": 14.539
+        }
+      ]
+    },
+    {
+      "start": 14.539,
+      "end": 15.452,
+      "text": "MOST OF THE MONEY",
+      "words": [
+        {
+          "text": "most",
+          "start": 14.539,
+          "end": 14.8
+        },
+        {
+          "text": "of",
+          "start": 14.8,
+          "end": 14.93
+        },
+        {
+          "text": "the",
+          "start": 14.93,
+          "end": 15.126
+        },
+        {
+          "text": "money",
+          "start": 15.126,
+          "end": 15.452
+        }
+      ]
+    },
+    {
+      "start": 15.452,
+      "end": 16.56,
+      "text": "WAS EVER FOUND.",
+      "words": [
+        {
+          "text": "was",
+          "start": 15.452,
+          "end": 15.647
+        },
+        {
+          "text": "ever",
+          "start": 15.647,
+          "end": 15.908
+        },
+        {
+          "text": "found.",
+          "start": 15.908,
+          "end": 16.56
+        }
+      ]
+    }
+  ]
+}
